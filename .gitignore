@@ -12,3 +12,5 @@ Thumbs.db
 .bundle/*
 Gemfile.lock
 vendor/*
+
+*~
