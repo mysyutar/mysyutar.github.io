@@ -125,4 +125,4 @@ JB :
   # where [HELPER] is the name of the helper you are overriding.
   
 # Google Analytics
-ga_id: UA-34888808-1
+google_analytics_tracking_id: UA-34888808-1
