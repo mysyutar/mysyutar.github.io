@@ -3,7 +3,7 @@ layout: post
 title: "みつどもえ第12巻 チェックポイント"
 description: ""
 category: 
-tags: [みつどもえ,感想]
+tags: [みつどもえ, 感想]
 ---
 {% include JB/setup %}
 
