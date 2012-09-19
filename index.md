@@ -7,7 +7,7 @@ tagline: skhr-blogへようこそ！＞＜
 
 ![森田さんは無口](./images/morita_024.4.jpg)
 
-## 最新記事
+## Recent Entries
 
 <ul class="posts">
   {% for post in site.posts %}
