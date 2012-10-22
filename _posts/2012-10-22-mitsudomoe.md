@@ -3,7 +3,7 @@ layout: post
 title: "みつどもえ 235卵性「ハムナプタラ／純白のピラミッド」全然関係ない触手話"
 description: ""
 category: 
-tags: []
+tags: [みつどもえ, 感想, イラスト]
 ---
 {% include JB/setup %}
 
