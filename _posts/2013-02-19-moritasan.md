@@ -3,7 +3,7 @@ layout: post
 title: "森田さんは無口 第6巻 チェックポイント 後編"
 description: ""
 category: 
-tags: [森田さんは無口,感想]
+tags: [森田さんは無口, 感想]
 ---
 {% include JB/setup %}
 
