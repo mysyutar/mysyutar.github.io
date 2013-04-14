@@ -7,6 +7,22 @@ tagline: skhr-blogへようこそ！＞＜
 
 ![森田さんは無口](./images/morita_024.4.jpg)
 
+## About
+
+- Author: mysyutar
+- Banner:
+![banner](./images/banner.jpg)
+- MySite:
+  - [skhr-blog](http://mysyutar.github.com/) - ([mirror](http://mysyutar.heroku.com/))
+  - [Twitter](https://twitter.com/mysyutar)
+  - [TINAMI](http://www.tinami.com/creator/profile/21886)
+  - [ニコニコ静画](http://seiga.nicovideo.jp/user/illust/17860340)
+  - [ニジエ](http://nijie.info/members.php?id=58670)
+  - [pixiv](http://www.pixiv.net/member.php?id=1432163)
+- Download:
+  - [Bitbucket](https://bitbucket.org/mysyutar/manga/downloads)
+
+<!--
 ## Recent Entries
 
 <ul class="posts">
@@ -18,3 +34,4 @@ tagline: skhr-blogへようこそ！＞＜
     </li>
   {% endfor %}
 </ul>
+-->
