@@ -7,6 +7,10 @@ tagline: skhr-blogへようこそ！＞＜
 
 ![森田さんは無口](./images/morita_024.4.jpg)
 
+## 森田さんは無口3期こい！
+
+![森田さんは無口まるさんじょう](./images/morita_028.jpg)
+
 ## About
 
 - Author: mysyutar
