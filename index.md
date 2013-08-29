@@ -5,6 +5,12 @@ tagline: skhr-blogへようこそ！＞＜
 ---
 {% include JB/setup %}
 
+## お知らせ
+
+`http://mysyutar.heroku.com` 運用終了しました。(今はリダイレクトさせるようになっています)
+
+## ちゅう
+
 ![森田さんは無口](./images/morita_024.4.jpg)
 
 ## 森田さんは無口3期こい！
@@ -17,7 +23,7 @@ tagline: skhr-blogへようこそ！＞＜
 - Banner:
 ![banner](./images/banner.jpg)
 - MySite:
-  - [skhr-blog](http://mysyutar.github.com/) - ([mirror](http://mysyutar.heroku.com/))
+  - [skhr-blog](http://mysyutar.github.com/) - (<del>[mirror](http://mysyutar.heroku.com/)</del>)
   - [Twitter](https://twitter.com/mysyutar)
   - [TINAMI](http://www.tinami.com/creator/profile/21886)
   - [ニコニコ静画](http://seiga.nicovideo.jp/user/illust/17860340)
