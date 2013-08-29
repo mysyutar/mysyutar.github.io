@@ -24,6 +24,7 @@ tagline: skhr-blogへようこそ！＞＜
 ![banner](./images/banner.jpg)
 - MySite:
   - [skhr-blog](http://mysyutar.github.com/) - (<del>[mirror](http://mysyutar.heroku.com/)</del>)
+    - [repository](https://github.com/mysyutar/mysyutar.github.com)
   - [Twitter](https://twitter.com/mysyutar)
   - [TINAMI](http://www.tinami.com/creator/profile/21886)
   - [ニコニコ静画](http://seiga.nicovideo.jp/user/illust/17860340)
