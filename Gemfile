@@ -1,5 +1,5 @@
-source :rubygems
+source 'https://rubygems.org'
 
-gem 'jekyll'
-gem 'RedCloth'
 gem 'rake'
+gem 'jekyll'
+gem 'therubyracer'
