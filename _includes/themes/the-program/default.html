@@ -45,9 +45,17 @@
 				<div class="misc vcard">
 					<h4>About</h4>
 					<ul>
-						<li class="contact"><address><span class="author fn n">{{ site.author.name }}</span> - <span class="fn email">{{ site.author.email }}</span></address></li>
+						<li class="contact">
+							<address>
+								@
+								<a href="http://twitter.com/{{ site.author.twitter }}/" rel="me">
+									<span class="author fn n">{{ site.author.name }}</span>
+								</a>
+								-
+								<span class="fn email">{{ site.author.email }}</span>
+							</address>
+						</li>
 
-						<li class="twitter"><a href="http://twitter.com/{{ site.author.twitter }}/" rel="me">@{{ site.author.twitter }}</a></li>
 						<li class="nijie"><a href="http://nijie.info/members.php?id={{ site.author.nijie }}">ニジエ</a></li>
 						<li class="pixiv"><a href="http://www.pixiv.net/member.php?id={{ site.author.pixiv }}">pixiv</a></li>
 					</ul>
