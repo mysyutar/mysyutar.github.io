@@ -46,7 +46,6 @@
 					<h4>About</h4>
 					<ul>
 						<li class="contact"><address><span class="author fn n">{{ site.author.name }}</span> - <span class="fn email">{{ site.author.email }}</span></address></li>
-						<li class="rss"><a href="http://feeds.feedburner.com/{{ site.author.feedname }}">Subscribe to RSS Feed</a></li>
 
 						<li class="twitter"><a href="http://twitter.com/{{ site.author.twitter }}/" rel="me">@{{ site.author.twitter }}</a></li>
 						<li class="nijie"><a href="http://nijie.info/members.php?id={{ site.author.nijie }}">ニジエ</a></li>
@@ -64,6 +63,9 @@
 						{% endfor %}
 					</ul>
 				</div>
+				<p>
+					<li class="rss"><a href="http://feeds.feedburner.com/{{ site.author.feedname }}">Subscribe to RSS Feed</a></li>
+				</p>
 				<p class="licence">
 					Theme: <a href="http://layouts-the.me">the_minimum</a> based on <a href="http://jekyllbootstrap.com/">Jekyll-bootstrap</a>.<br>
 					Powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a>.
