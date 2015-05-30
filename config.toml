@@ -1,6 +1,7 @@
 title = "yu-my-star"
 baseurl = "http://mysyutar.github.io"
 languageCode = "ja-jp"
+metaDataFormat = "yaml"
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"

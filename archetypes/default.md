@@ -1,6 +1,9 @@
 ---
-date: "now()"
+date: now()
 title: ""
-categories = [misc]
-tags = []
+slug: ""
+categories: [misc, work]
+tags: [日記]
 ---
+
+## headline
