@@ -1,0 +1,10 @@
+title = "yu-my-star"
+baseurl = "http://mysyutar.github.io"
+languageCode = "ja-jp"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+
+[params]
+  description = "yu-my-starへようこそ！"
+  mainMenu = ["about", "work", "post"]
