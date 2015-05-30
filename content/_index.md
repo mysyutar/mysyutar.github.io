@@ -1,9 +1,14 @@
-+++
-date = "2015-05-29T16:59:10+09:00"
-title = "_index"
+---
+date: "2015-05-29T16:59:10+09:00"
+title: "_index"
+---
 
-+++
+サークル yu-my-star として二次創作をしたり、しなかったりするWebサイトです。
 
-## Welcome Welcome
+## yu-my-star works
 
-てすと
+<script type="text/javascript">blogparts={"type":"circle","site":"maniax","circle_key":"yu-my-star","query":{"keyword_maker_name":"RG26973","order":"release_d","ana_flg":"all"},"title":"yu-my-star","display":"horizontal","detail":"1","column":"v","image":"large","count":"3","wrapper":"0","aid":"yumystar"}</script><script type="text/javascript" src="//www.dlsite.com/js/blogparts.js" charset="UTF-8"></script>
+
+## リンク
+
+- [スクールガールストライカーズ](http://schoolgirlstrikers.jp/index.html)
