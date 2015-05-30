@@ -7,4 +7,5 @@ languageCode = "ja-jp"
 
 [params]
   description = "yu-my-starへようこそ！"
+  analytics = "UA-34888808-1"
   mainMenu = ["about", "work", "post"]
