@@ -10,3 +10,6 @@ metaDataFormat = "yaml"
   description = "yu-my-starへようこそ！"
   analytics = "UA-34888808-1"
   mainMenu = ["about", "work", "post"]
+  twitter_id = "mysyutar"
+  github_id = "mysyutar"
+  recentLimit = 10
