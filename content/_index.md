@@ -12,3 +12,5 @@ title: "_index"
 ## リンク
 
 - [スクールガールストライカーズ](http://schoolgirlstrikers.jp/index.html)
+- [「キルミーベイベー」 限りなく公式HPに近いサイト](http://killmebaby.tv/)
+- [株式会社ポプルス](http://www.popls.co.jp)
