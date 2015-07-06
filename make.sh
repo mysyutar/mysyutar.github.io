@@ -18,8 +18,8 @@ elif [ $1 = "deploy" ]; then
 
   git push origin HEAD
 
-  rm -rf public/*
-  hugo --theme=bootie-docs
+  rm -rf _site/*
+  hugo
 
   cd public
 
@@ -30,7 +30,7 @@ elif [ $1 = "deploy" ]; then
   git add ./
   git commit -m "Deploy at ${DATE}"
 
-  git push -f origin master
+  #git push -f origin master
 else
   echo "Usage: $0 [post|build|serve|deploy]"
 fi

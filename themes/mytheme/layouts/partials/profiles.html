@@ -1,0 +1,20 @@
+<div class="sidebar-module">
+	<h4>Socials</h4>
+	<ul>
+	{{ if $.Site.Params.twitter_id }}
+	<li>
+		<a class="twitter" href='http://twitter.com/{{ $.Site.Params.twitter_id }}' title="Twitter">Twitter</a>
+	</li>
+	{{ end }}
+	{{ if $.Site.Params.pixiv_id }}
+	<li>
+		<a class="pixiv" href='https://' title="pixiv">pixiv</a>
+	</li>
+	{{ end }}
+	{{ if $.Site.Params.github_id }}
+	<li>
+		<a class="github" href='https://github.com/{{ $.Site.Params.github_id }}' title="GitHub">GitHub</a>
+	</li>
+	{{ end }}
+	</ul>
+</div>

@@ -1,0 +1,42 @@
+{{ $baseUrl := .Site.BaseURL }}
+<div class="col-sm-3 col-sm-offset-1 doc-sidebar">
+
+	{{ partial "profiles.html" . }}
+
+	{{ partial "blogparts.html" . }}
+
+	<div class="sidebar-module">
+		<h4>Recent Entries</h4>
+		<div class="entry-group">
+		{{ range first .Site.Params.recentLimit .Site.Pages }}
+			<a href="{{.RelPermalink}}" class="list-group-item">
+				{{ .Title }}
+			</a>
+		{{ end }}
+		</div>
+	</div>
+
+	<div class="sidebar-module">
+		<h4>Categories</h4>
+		<div class="list-group">
+		{{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+			<a href="{{ $baseUrl }}/categories/{{ $name | urlize }}" class="list-group-item">
+				{{ $name }}
+				<span class="badge">{{ .Count }}</span>
+			</a>
+		{{ end }}
+		</div>
+	</div>
+
+	<div class="sidebar-module">
+		<h4>Tags</h4>
+		<div class="list-group">
+		{{ range $name, $value := .Site.Taxonomies.tags }}
+			<a href="{{ $baseUrl }}/tags/{{ $name | urlize }}" class="list-group-item">
+				{{ $name }}
+				<span class="badge">{{ .Count }}</span>
+			</a>
+		{{ end }}
+		</div>
+	</div>
+</div><!-- /.doc-sidebar -->

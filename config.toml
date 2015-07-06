@@ -2,15 +2,19 @@ title = "yu-my-star"
 baseurl = "http://mysyutar.github.io"
 languageCode = "ja-jp"
 metaDataFormat = "yaml"
-theme = "bootie-docs"
+publishdir = "_site"
+theme = "mytheme"
+paginate = 5
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
 
 [params]
-  description = "yu-my-starへようこそ！"
-  analytics = "UA-34888808-1"
   mainMenu = ["about", "work", "post"]
+  author = "mysyutar"
   twitter_id = "mysyutar"
+  pixiv_id = "mysyutar"
   github_id = "mysyutar"
-  recentLimit = 10
+  analytics = "UA-34888808-1"
+  disqus = "mysyutar"
+  recentLimit = 5

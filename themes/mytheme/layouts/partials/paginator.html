@@ -1,0 +1,28 @@
+{{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+<div class="pagination">
+	<ul>
+	{{ if .Paginator.HasPrev }}
+		<li class="next">
+			<a href="{{ .Paginator.Prev.URL }}">Next</a>
+		</li>
+	{{ else }}
+		<li class="disabled">
+			<a>Next</a>
+		</li>
+	{{ end }}
+	<li>
+		<a><span>{{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}</span></a>
+	</li>
+	{{ if .Paginator.HasNext }}
+		<li class="prev">
+			<a href="{{ .Paginator.Next.URL }}">Prev</a>
+		</li>
+	{{ else }}
+		<li class="disabled">
+			<a>Prev</a>
+		</li>
+	{{ end }}
+	</ul>
+</div>
+{{ end }}
+

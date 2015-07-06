@@ -1,0 +1,17 @@
+{{ $baseUrl := .Site.BaseURL }}
+</div> <!-- /.container -->
+
+<hr />
+<footer class="doc-footer">
+<address>
+	Author: {{ .Site.Params.author }} / Powered by Hugo / Design based on <a href="https://nkmr6194.github.io/Umi/">Umi</a>
+</address>
+</footer>
+{{ partial "ga.html" . }}
+
+<script src="{{ $baseUrl }}/js/jquery-1.11.2.min.js"></script>
+<script src="{{ $baseUrl }}/js/bootstrap.min.js"></script>
+<script src="{{ $baseUrl }}/js/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>

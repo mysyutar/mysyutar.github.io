@@ -1,0 +1,25 @@
+<div class="pagination">
+	<ul>
+	{{ if .Next }}
+		<li class="next">
+			<a href="{{ .Next.Permalink }}" title="{{ .Next.Title }}">{{ .Next.Title }}</a>
+		</li>
+	{{ else }}
+		<li class="disabled">
+			<a>Next</a>
+		</li>
+	{{ end }}
+	<li>
+		<a href="/post">Post</a>
+	</li>
+	{{ if .Prev }}
+		<li class="prev">
+			<a href="{{ .Prev.Permalink }}" title="{{ .Prev.Title }}">{{ .Prev.Title }}</a>
+		</li>
+	{{ else }}
+		<li class="disabled">
+			<a>Prev</a>
+		</li>
+	{{ end }}
+	</ul>
+</div>

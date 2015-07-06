@@ -1,6 +1,6 @@
 ---
 date: "2015-05-30T00:00:00+09:00"
-title: "Work"
+title: "yu-my-star Works"
 categories: [work]
 tags: [薄い本]
 ---

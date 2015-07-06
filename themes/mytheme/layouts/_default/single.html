@@ -1,0 +1,24 @@
+{{ partial "header.html" . }}
+
+<div class="row">
+	<div class="col-sm-8 doc-main">
+		<main role="main">
+			<article>
+				{{ partial "content.html" . }}
+			</article>
+		</main>
+		{{ partial "pagination.html" . }}
+
+	<hr />
+
+	{{ partial "social.html" . }}
+
+	{{ partial "disqus.html" . }}
+
+	</div> <!-- /.doc-main -->
+
+	{{ partial "sidebar.html" . }}
+
+</div> <!-- /.row -->
+
+{{ partial "footer.html" . }}

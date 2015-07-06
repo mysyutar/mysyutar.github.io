@@ -1,0 +1,26 @@
+{{ $baseUrl := .Site.BaseURL }}
+
+{{ partial "header.html" . }}
+
+<main role="main">
+
+<div class="row doc-main">
+
+	{{ range where .Site.Pages "Title" "Index" }}
+		{{ .Content }}
+	{{ end }}
+
+	<h1>Recent Entries</h1>
+	<!-- Pagination entries-->
+	<article>
+		{{ range .Paginator.Pages }}
+			{{ partial "content.html" . }}
+		{{ end }}
+	</article>
+	<!-- Pagination link -->
+	{{ partial "paginator.html" . }}
+</div>
+
+</main>
+
+{{ partial "footer.html" . }}

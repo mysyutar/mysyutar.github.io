@@ -1,0 +1,41 @@
+{{ partial "header.html" . }}
+
+<div class="row">
+	<div class="col-sm-8 doc-main">
+		<main role="main">
+			<div class="doc-list-header">
+				<h1>{{ if $.Data.Singular }}{{ .Data.Singular }} - {{ end }}{{ .Title }}</h1>
+			</div>
+			<div class="doc-list-entry">
+				<ul>
+				{{ $baseUrl := .Site.BaseURL }}
+				{{ range .Data.Pages }}
+						<li class="doc-entry-title">
+							<span class="doc-entry-meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006/01/02" }}</time></span>
+							<!-- If exist Tags list then show-->
+							{{ if .Params.tags }}
+								{{ range $name, $value := .Params.tags }}
+									<span class="doc-entry-meta">[
+									<code><a href="{{ $baseUrl }}/tags/{{ $value | urlize }}">
+										{{ $value }}
+									</a></code>
+									]</span>
+								{{ end }}
+							{{ end }}
+							<a class="doc-entry" href="{{ .RelPermalink }}">
+								{{ .Title }}
+							</a>
+						</li>
+				{{ end }}
+				</ul>
+			</div>
+		</main>
+	</div> <!-- /.doc-main -->
+
+	{{ partial "sidebar.html" . }}
+
+</div> <!-- /.row -->
+
+<hr />
+
+{{ partial "footer.html" . }}
