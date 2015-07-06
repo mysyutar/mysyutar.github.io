@@ -21,7 +21,7 @@ elif [ $1 = "deploy" ]; then
   rm -rf _site/*
   hugo
 
-  cd public
+  cd _site
 
   git remote add origin git@github-my.com:mysyutar/mysyutar.github.io.git
   git pull
