@@ -1,19 +1,21 @@
 {{ $baseUrl := .Site.BaseURL }}
 <div class="col-sm-3 col-sm-offset-1 doc-sidebar">
 
+	{{ partial "blogparts.html" . }}
+
 	{{ partial "profiles.html" . }}
 
-	{{ partial "blogparts.html" . }}
+	{{ partial "link.html" . }}
 
 	<div class="sidebar-module">
 		<h4>Recent Entries</h4>
-		<div class="entry-group">
+		<ul>
 		{{ range first .Site.Params.recentLimit .Site.Pages }}
-			<a href="{{.RelPermalink}}" class="list-group-item">
+			<li><a href="{{.RelPermalink}}">
 				{{ .Title }}
-			</a>
+			</a></li>
 		{{ end }}
-		</div>
+		</ul>
 	</div>
 
 	<div class="sidebar-module">
@@ -39,4 +41,5 @@
 		{{ end }}
 		</div>
 	</div>
+
 </div><!-- /.doc-sidebar -->

@@ -5,11 +5,11 @@ categories: [work]
 tags: [薄い本]
 ---
 
-## yu-my-star 作品
-
-薄い本作ってはDLsiteやBOOTHにアップしたり。
+## 2015年
 
 ### GirlsRyoM Vol.1 千川ちひろの前立腺面談
+
+<a href="http://www.dlsite.com/maniax/dlaf/=/link/work/aid/yumystar/id/RJ154849.html" target="_blank"><img itemprop="image" src="//img.dlsite.jp/modpub/images2/work/doujin/RJ155000/RJ154849_img_main.jpg" alt="GirlsRyoM Vol.1 千○ちひろの前立腺面談" title="GirlsRyoM Vol.1 千○ちひろの前立腺面談" border="0" class="target_type" /></a>
 
 - 初版発行日
     - 2015/05/03
@@ -22,6 +22,8 @@ tags: [薄い本]
 
 ### まどかと杏子で攻めるから玉で堕ちてねvほむらちゃん
 
+<a href="http://www.dlsite.com/maniax/dlaf/=/link/work/aid/yumystar/id/RJ154848.html" target="_blank"><img itemprop="image" src="//img.dlsite.jp/modpub/images2/work/doujin/RJ155000/RJ154848_img_main.jpg" alt="まどかと杏子で攻めるから玉で堕ちてねvほむらちゃん" title="まどかと杏子で攻めるから玉で堕ちてねvほむらちゃん" border="0" class="target_type" /></a>
+
 - 初版発行日
     - 2015/01/25
 - ジャンル
@@ -33,6 +35,8 @@ tags: [薄い本]
 
 ### まどかのお願いぜーんぶきいてねvほむらちゃん
 
+<a href="http://www.dlsite.com/maniax/dlaf/=/link/work/aid/yumystar/id/RJ154847.html" target="_blank"><img itemprop="image" src="//img.dlsite.jp/modpub/images2/work/doujin/RJ155000/RJ154847_img_main.jpg" alt="まどかのお願いぜーんぶきいてねvほむらちゃん" title="まどかのお願いぜーんぶきいてねvほむらちゃん" border="0" class="target_type" /></a>
+
 - 初版発行日
     - 2015/01/25
 - ジャンル
@@ -42,7 +46,11 @@ tags: [薄い本]
 - その他
     - 
 
+## 2014年
+
 ### ウオミーの玉しか責めない本
+
+<a href="http://www.dlsite.com/maniax/dlaf/=/link/work/aid/yumystar/id/RJ139781.html" target="_blank"><img itemprop="image" src="//img.dlsite.jp/modpub/images2/work/doujin/RJ140000/RJ139781_img_main.jpg" alt="ウオミーの玉しか責めない本" title="ウオミーの玉しか責めない本" border="0" class="target_type" /></a>
 
 - 初版発行日
     - 2014/08/17

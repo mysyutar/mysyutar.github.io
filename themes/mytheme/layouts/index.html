@@ -4,7 +4,7 @@
 
 <main role="main">
 
-<div class="row doc-main">
+<div class="row doc-main col-sm-8">
 
 	{{ range where .Site.Pages "Title" "Index" }}
 		{{ .Content }}
@@ -20,6 +20,8 @@
 	<!-- Pagination link -->
 	{{ partial "paginator.html" . }}
 </div>
+
+	{{ partial "sidebar.html" . }}
 
 </main>
 
