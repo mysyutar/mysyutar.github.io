@@ -16,9 +16,7 @@
 							{{ if .Params.tags }}
 								{{ range $name, $value := .Params.tags }}
 									<span class="doc-entry-meta">[
-									<code><a href="{{ $baseUrl }}/tags/{{ $value | urlize }}">
-										{{ $value }}
-									</a></code>
+									<code><a href="{{ $baseUrl }}/tags/{{ $value | urlize }}">{{ $value }}</a></code>
 									]</span>
 								{{ end }}
 							{{ end }}

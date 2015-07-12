@@ -7,9 +7,7 @@
 		{{ if .Params.categories }}
 			<span>Categories:</span>
 			{{ range $name, $value := .Params.categories }}
-				<code><a href="{{ $baseUrl }}/categories/{{ $value | urlize }}">
-					{{ $value }}
-				</a></code>
+				<code><a href="{{ $baseUrl }}/categories/{{ $value | urlize }}">{{ $value }}</a></code>
 			{{ end }}
 			<span>|</span>
 		{{ end }}
