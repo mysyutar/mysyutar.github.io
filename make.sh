@@ -5,10 +5,24 @@ if [ $1 = "post" ]; then
   YEAR=`date +"%Y"`
   MONTH=`date +"%m"`
   DAY=`date +"%d"`
-  NAME=$1
+  NAME=$2
 
-  echo $DATE
-  cp archetypes/default.md "content/post/${YEAR}-${MONTH}-${DAY}-${NAME}.md"
+  FILE_NAME="${YEAR}-${MONTH}-${DAY}-${NAME}.md"
+  FILE="content/post/${FILE_NAME}"
+
+  touch ${FILE}
+  echo "created ${FILE}"
+
+  2015-05-30T15:35:17+09:00
+  echo "---"                      >> ${FILE}
+  echo "date: ${DATE}"            >> ${FILE}
+  echo "title: \"${NAME}\""       >> ${FILE}
+  echo "slug: \"${NAME}\""        >> ${FILE}
+  echo "categories: [misc, work, review]" >> ${FILE}
+  echo "tags: [日記]"             >> ${FILE}
+  echo "---"                      >> ${FILE}
+  echo ""                         >> ${FILE}
+  echo "## headline"              >> ${FILE}
 elif [ $1 = "serve" ]; then
   hugo server --bind=0.0.0.0 --baseUrl=http://219.94.249.150 -w --port=4000
 elif [ $1 = "deploy" ]; then
