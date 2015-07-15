@@ -13,7 +13,6 @@ if [ $1 = "post" ]; then
   touch ${FILE}
   echo "created ${FILE}"
 
-  2015-05-30T15:35:17+09:00
   echo "---"                      >> ${FILE}
   echo "date: ${DATE}"            >> ${FILE}
   echo "title: \"${NAME}\""       >> ${FILE}
