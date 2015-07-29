@@ -22,7 +22,7 @@
 &lt;p&gt;Ver 1.2 か 1.3 の時に武器に「攻撃力大」を付加しようとして、約100回試行したら &lt;strong&gt;1回&lt;/strong&gt; しか付加されなかった。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://mysyutar.github.io/images/2012/10/23/3.jpg&#34; alt=&#34;バトリクス&#34; /&gt;
-
+&lt;br /&gt;
 &lt;img src=&#34;http://mysyutar.github.io/images/2012/10/23/4.jpg&#34; alt=&#34;バトリクス&#34; /&gt;
 &lt;/p&gt;
 
@@ -33,24 +33,24 @@
 &lt;h2 id=&#34;前提条件:4898a7ea16373ab181e825ee41c5992e&#34;&gt;前提条件&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;とりあえず100回
+&lt;li&gt;とりあえず100回&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;資金は最終的に70000ちょい。元々50000あったけど、後述の武器をチョイスした結果100回まで到達できなかったのでログインボーナスも駆使して集金&lt;/li&gt;
+&lt;li&gt;資金は最終的に70000ちょい。元々50000あったけど、後述の武器をチョイスした結果100回まで到達できなかったのでログインボーナスも駆使して集金&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;鍛冶屋は「おてごろ」
+&lt;li&gt;鍛冶屋は「おてごろ」&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;やはりちからこぶで大は出ないんだろうか(バージョンアップしてから試してない)&lt;/li&gt;
+&lt;li&gt;やはりちからこぶで大は出ないんだろうか(バージョンアップしてから試してない)&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ターゲットはLv1バトルピッケル&lt;/li&gt;
+&lt;li&gt;ターゲットはLv1バトルピッケル&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;手順-前回と同じ:4898a7ea16373ab181e825ee41c5992e&#34;&gt;手順(前回と同じ)&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;強く！と弱く！を繰り返す&lt;/li&gt;
-&lt;li&gt;ただし、攻撃力大が出た場合は弱く！せずに次のレベルに進む&lt;/li&gt;
+&lt;li&gt;強く！と弱く！を繰り返す&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;ただし、攻撃力大が出た場合は弱く！せずに次のレベルに進む&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;過程:4898a7ea16373ab181e825ee41c5992e&#34;&gt;過程&lt;/h2&gt;
@@ -68,7 +68,7 @@
 &lt;p&gt;調子いい。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://mysyutar.github.io/images/2012/10/23/8.png&#34; alt=&#34;バトリクス&#34; /&gt;
-
+&lt;br /&gt;
 &lt;img src=&#34;http://mysyutar.github.io/images/2012/10/23/9.png&#34; alt=&#34;バトリクス&#34; /&gt;
 &lt;/p&gt;
 
@@ -80,32 +80,32 @@
 &lt;h2 id=&#34;結果:4898a7ea16373ab181e825ee41c5992e&#34;&gt;結果&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;約100回試行して &lt;strong&gt;5&lt;/strong&gt; 回の攻撃力大が得られた。&lt;/li&gt;
+&lt;li&gt;約100回試行して &lt;strong&gt;5&lt;/strong&gt; 回の攻撃力大が得られた。&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://mysyutar.github.io/images/2012/10/23/1.jpg&#34; alt=&#34;バトリクス&#34; /&gt;
-
+&lt;br /&gt;
 &lt;img src=&#34;http://mysyutar.github.io/images/2012/10/23/2.jpg&#34; alt=&#34;バトリクス&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;比較するとこう。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://mysyutar.github.io/images/2012/10/23/4.jpg&#34; alt=&#34;バトリクス&#34; /&gt;
-
+&lt;br /&gt;
 &lt;img src=&#34;http://mysyutar.github.io/images/2012/10/23/2.jpg&#34; alt=&#34;バトリクス&#34; /&gt;
 &lt;/p&gt;
 
 &lt;h2 id=&#34;雑感:4898a7ea16373ab181e825ee41c5992e&#34;&gt;雑感&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;厳密に前回と比べるには(武器によって出やすい出にくいがあるか等)Lv1旋風の薙刀をチョイスしなきゃいけなかったんだろうなあ&lt;/li&gt;
-&lt;li&gt;範囲と属性の割合が少しずつ減って、その分がxx大になったような感じ&lt;/li&gt;
-&lt;li&gt;地味にディレイ大と軽量大も多くなっている
+&lt;li&gt;厳密に前回と比べるには(武器によって出やすい出にくいがあるか等)Lv1旋風の薙刀をチョイスしなきゃいけなかったんだろうなあ&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;範囲と属性の割合が少しずつ減って、その分がxx大になったような感じ&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;地味にディレイ大と軽量大も多くなっている&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;軽量大はだいえっとがあるからあんまり嬉しくない…&lt;/li&gt;
+&lt;li&gt;軽量大はだいえっとがあるからあんまり嬉しくない…&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;闇が0なのはただの偶然だと思う&lt;/li&gt;
+&lt;li&gt;闇が0なのはただの偶然だと思う&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;全体的にいいスキルが付加されやすくなっていると思う。&lt;/p&gt;
@@ -123,7 +123,7 @@
 &lt;h2 id=&#34;詳細:e5d8cdac6d58c69fa0f913921b0a0f6d&#34;&gt;詳細&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.google.co.jp/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=4&amp;ved=0CFsQFjAD&amp;url=http%3A%2F%2Fitunes.apple.com%2Fjp%2Fapp%2Ffu-you-da-lubatorikusu%2Fid521959688%3Fmt%3D8&amp;ei=9NzyT-6zC8eKmQXjwsGgCQ&amp;usg=AFQjCNGhu5K9_TwtTjZHVaVJWm4__xbBHw&#34; class=&#34;l&#34;&gt;App Store - 浮遊大陸&lt;em&gt;バトリクス&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.co.jp/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=4&amp;ved=0CFsQFjAD&amp;url=http%3A%2F%2Fitunes.apple.com%2Fjp%2Fapp%2Ffu-you-da-lubatorikusu%2Fid521959688%3Fmt%3D8&amp;ei=9NzyT-6zC8eKmQXjwsGgCQ&amp;usg=AFQjCNGhu5K9_TwtTjZHVaVJWm4__xbBHw&#34; class=&#34;l&#34;&gt;App Store - 浮遊大陸&lt;em&gt;バトリクス&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;あらすじ:e5d8cdac6d58c69fa0f913921b0a0f6d&#34;&gt;あらすじ&lt;/h2&gt;
@@ -133,26 +133,26 @@
 &lt;h2 id=&#34;前提条件:e5d8cdac6d58c69fa0f913921b0a0f6d&#34;&gt;前提条件&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;とりあえず100回
+&lt;li&gt;とりあえず100回&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;資金は50000ゴールド+α&lt;/li&gt;
-&lt;li&gt;初期持ち分 + オンライン市場で50000ゴールド/850円を貢ぐ…&lt;/li&gt;
-&lt;li&gt;いくらから始めたかスクリーンショット撮るのをわすれた&lt;/li&gt;
+&lt;li&gt;資金は50000ゴールド+α&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;初期持ち分 + オンライン市場で50000ゴールド/850円を貢ぐ…&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;いくらから始めたかスクリーンショット撮るのをわすれた&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;鍛冶屋は「おてごろ」
+&lt;li&gt;鍛冶屋は「おてごろ」&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;ちからこぶは攻撃力小専門っぽい？？一回も大が出たことない&lt;/li&gt;
+&lt;li&gt;ちからこぶは攻撃力小専門っぽい？？一回も大が出たことない&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ターゲットはLv1旋風の薙刀&lt;/li&gt;
+&lt;li&gt;ターゲットはLv1旋風の薙刀&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;手順:e5d8cdac6d58c69fa0f913921b0a0f6d&#34;&gt;手順&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;強く！と弱く！を繰り返す&lt;/li&gt;
-&lt;li&gt;ただし、攻撃力大が出た場合は弱く！せずに次のレベルに進む&lt;/li&gt;
+&lt;li&gt;強く！と弱く！を繰り返す&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;ただし、攻撃力大が出た場合は弱く！せずに次のレベルに進む&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;過程:e5d8cdac6d58c69fa0f913921b0a0f6d&#34;&gt;過程&lt;/h2&gt;
@@ -163,7 +163,7 @@
 
 &lt;p&gt;15000ゴールドくらい使った所で一個目の攻撃力大がついた！(EXPが0なのでなりたて、一回弱く！するとEXP半分溜まるから)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://mysyutar.github.com/images/2012/07/03/2.png&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;http://mysyutar.github.com/images/2012/07/03/2.png&#34;&gt;&lt;br /&gt;
 &lt;img src=&#34;http://mysyutar.github.com/images/2012/07/03/3.png&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;限りなく続く射精のような感覚……！　ある意味桃源郷……！&lt;/p&gt;
@@ -178,34 +178,34 @@
 
 &lt;p&gt;約100回施行して1回の攻撃力大が出た&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://mysyutar.github.com/images/2012/07/03/table.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;http://mysyutar.github.com/images/2012/07/03/table.jpg&#34;&gt;&lt;br /&gt;
 &lt;img src=&#34;http://mysyutar.github.com/images/2012/07/03/graph.png&#34;&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;雑感:e5d8cdac6d58c69fa0f913921b0a0f6d&#34;&gt;雑感&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;意外と属性付加が多い
+&lt;li&gt;意外と属性付加が多い&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;オール攻撃力大とかにこだわらなければ、先に属性付加して以後出さないようにしてもいいかもしれない。それくらい多いので求めてない時は邪魔臭い&lt;/li&gt;
+&lt;li&gt;オール攻撃力大とかにこだわらなければ、先に属性付加して以後出さないようにしてもいいかもしれない。それくらい多いので求めてない時は邪魔臭い&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;範囲アップも多い
+&lt;li&gt;範囲アップも多い&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;ただし、範囲は以後出なくするのに2回アップする必要があるのと、範囲あってもあまり嬉しくない武器もある(主観)ので微妙？&lt;/li&gt;
+&lt;li&gt;ただし、範囲は以後出なくするのに2回アップする必要があるのと、範囲あってもあまり嬉しくない武器もある(主観)ので微妙？&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;クリティカル小/大問わず出やすい気がするのは鍛冶屋がまだないから？&lt;/li&gt;
-&lt;li&gt;ディレイはどすこいで大がつくならそこに頼んだほうが楽かもしれない(どすこいは未使用)&lt;/li&gt;
-&lt;li&gt;軽量と攻撃の大はエグいくらい出ないな
+&lt;li&gt;クリティカル小/大問わず出やすい気がするのは鍛冶屋がまだないから？&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;ディレイはどすこいで大がつくならそこに頼んだほうが楽かもしれない(どすこいは未使用)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;軽量と攻撃の大はエグいくらい出ないな&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;軽量は大が確実に出るだいえっと一択かな？&lt;/li&gt;
-&lt;li&gt;攻撃力大を出す鍛冶屋出してほしいけど、バランス崩壊しそうなので、ないかな？&lt;/li&gt;
+&lt;li&gt;軽量は大が確実に出るだいえっと一択かな？&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;攻撃力大を出す鍛冶屋出してほしいけど、バランス崩壊しそうなので、ないかな？&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;もしかして武器によって出やすいスキルがあるか？
+&lt;li&gt;もしかして武器によって出やすいスキルがあるか？&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;モーニングスターなら攻撃系が超出やすく軽量が出にくいとか？&lt;/li&gt;
+&lt;li&gt;モーニングスターなら攻撃系が超出やすく軽量が出にくいとか？&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 

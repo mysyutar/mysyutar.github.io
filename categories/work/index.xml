@@ -6,8 +6,319 @@
     <description>Recent content in Work on yu-my-star</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 30 May 2015 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2015 19:57:42 +0900</lastBuildDate>
     <atom:link href="http://mysyutar.github.io/categories/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>薄い本制作メモ</title>
+      <link>http://mysyutar.github.io/2015/07/29/draft-procedure/</link>
+      <pubDate>Wed, 29 Jul 2015 19:57:42 +0900</pubDate>
+      
+      <guid>http://mysyutar.github.io/2015/07/29/draft-procedure/</guid>
+      <description>
+
+&lt;h2 id=&#34;趣旨:00e0da8c80ab0035f5205312a77ddbff&#34;&gt;趣旨&lt;/h2&gt;
+
+&lt;p&gt;はじめての薄い本。なにをどうやっていけばよいのかわからんわいっという事で色々メモ。&lt;/p&gt;
+
+&lt;h3 id=&#34;このページに書くこと:00e0da8c80ab0035f5205312a77ddbff&#34;&gt;このページに書くこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;デジタル本の作り方(入稿に耐えうるフォーマットなど)に関するあれこれ&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;イベントに参加する際のあれこれ&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;書かないこと:00e0da8c80ab0035f5205312a77ddbff&#34;&gt;書かないこと&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;本の内容とか描き方のテクニック&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;※ 入稿する際に気をつける情報などは書く&lt;/p&gt;
+
+&lt;h2 id=&#34;薄い本概要:00e0da8c80ab0035f5205312a77ddbff&#34;&gt;薄い本概要&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;概要&lt;/th&gt;
+&lt;th&gt;詳細&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;作業期間&lt;/td&gt;
+&lt;td&gt;2014/09/08-2015/01/25&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;イベント日&lt;/td&gt;
+&lt;td&gt;2015/01/25(日)&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;本の内容&lt;/td&gt;
+&lt;td&gt;フルデジタル、24ページ、16ページ(2冊)、18禁、印刷所で刷ってもらう&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;印刷所&lt;/td&gt;
+&lt;td&gt;株式会社ポプルス&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;工程:00e0da8c80ab0035f5205312a77ddbff&#34;&gt;工程&lt;/h2&gt;
+
+&lt;h3 id=&#34;イベント申込み-2014-09-08:00e0da8c80ab0035f5205312a77ddbff&#34;&gt;イベント申込み(2014/09/08)&lt;/h3&gt;
+
+&lt;p&gt;はじめに申込み。&lt;/p&gt;
+
+&lt;p&gt;イベントによっては抽選となるようなので、お申込みはお早めに。(夏コミ、冬コミはそうらしい)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;申し込みした後に振り込み&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Paypalなどを使える場合は楽ちん&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;サークルカットを登録すること&lt;/strong&gt;&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;大体後からでもいけるようだが、締め切り注意。空っぽだと寂しい&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;薄い本作成-2014-09-08-2014-10-20:00e0da8c80ab0035f5205312a77ddbff&#34;&gt;薄い本作成(2014/09/08-2014/10/20)&lt;/h3&gt;
+
+&lt;p&gt;ひたすら作成。作業にはクリスタを使った。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;表紙はカラーで思うままに描いた&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;RGBで描いてCMYKに変換すると色がくすむことがあるらしいが、その辺りはまったくわからないので現物確認する事にした&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;本文はグレースケールでやった&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;サイズやdpiに関しては入稿する印刷所の &lt;code&gt;規定&lt;/code&gt; に則って作成する&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;以下の手順は株式会社ポプルス様のフォーマットに最適化されています。&lt;/p&gt;
+
+&lt;h3 id=&#34;印刷所へ入稿-2014-10-21:00e0da8c80ab0035f5205312a77ddbff&#34;&gt;印刷所へ入稿(2014/10/21-)&lt;/h3&gt;
+
+&lt;p&gt;今回は株式会社ポプルス様に依頼する。&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;規定&lt;/code&gt; 通りに作ると安くなるよというプランもあり。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.inv.co.jp/~popls/&#34;&gt;■各種印刷・製本・CDプレスの株式会社ポプルス■&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.inv.co.jp/~popls/ryokin/straight/straight_kaisoku.html&#34;&gt;ストレート値引き＆快速本でスマート同人活動！&lt;/a&gt;&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.inv.co.jp/~popls/ryokin/straight/check.jpg&#34;&gt;快速本、ストレート値引き対象のチェックシート.jpg&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;原稿に関して:00e0da8c80ab0035f5205312a77ddbff&#34;&gt;原稿に関して&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;フォーマット&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;psd形式、&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;レイヤー統合、チャンネル破棄&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;カラーモードはCMYK、RGB、グレースケール、モノクロ2階調&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;ファイル名&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;数字のみ連番(001.psd, 002.psd &amp;hellip;)&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;クリスタで &lt;code&gt;同人誌印刷用データ出力&lt;/code&gt; (1.3.9の時のコマンド、最新版では文言が異なる可能性あり)をすると、以下のメモとともにpsdファイルが生成された。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-html&#34;&gt;■入稿データについて
+この入稿データは「CLIP STUDIO PAINT EX 1.3.9」で作成されたものです。
+入稿データの寸法はすべて裁ち落とし幅を含めて作成されています。
+表紙と裏表紙は背幅を含めた見開き画像として作成されています。
+
+■本のサイズ
+  サイズ：        B5 判
+  幅：            182.0 mm
+  高さ：          257.0 mm
+  裁ち落とし幅：  3.0 mm
+  背幅：          1.30 mm
+  綴じの向き：    右綴じ
+
+■コメント
+コメントはありません。
+
+■台割り
+No.  台割り      ファイル名  ノンブル  表現色  解像度   メモ                
+1    裏表紙      001.psd     -         カラー  350 dpi                      
+1    表紙        001.psd     -         カラー  350 dpi                      
+2    表紙(裏)                                           印刷はありません。  
+3    本文1       003.psd     3         グレー  600 dpi                      
+4    本文2       004.psd     4         グレー  600 dpi                      
+5    本文3       005.psd     5         グレー  600 dpi                      
+6    本文4       006.psd     6         グレー  600 dpi                      
+7    本文5       007.psd     7         グレー  600 dpi                      
+8    本文6       008.psd     8         グレー  600 dpi                      
+9    本文7       009.psd     9         グレー  600 dpi                      
+10   本文8       010.psd     10        グレー  600 dpi                      
+11   本文9       011.psd     11        グレー  600 dpi                      
+12   本文10      012.psd     12        グレー  600 dpi                      
+13   本文11      013.psd     13        グレー  600 dpi                      
+14   本文12      014.psd     14        グレー  600 dpi                      
+15   本文13      015.psd     15        グレー  600 dpi                      
+16   本文14      016.psd     16        グレー  600 dpi                      
+17   本文15      017.psd     17        グレー  600 dpi                      
+18   本文16      018.psd     18        グレー  600 dpi                      
+19   本文17      019.psd     19        グレー  600 dpi                      
+20   本文18      020.psd     20        グレー  600 dpi                      
+21   本文19      021.psd     21        グレー  600 dpi                      
+22   本文20      022.psd     22        グレー  600 dpi                      
+23   裏表紙(裏)                                         印刷はありません。  
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;これを入稿時そのままzipで固めてアップでOKみたい。&lt;/p&gt;
+
+&lt;h4 id=&#34;成人向け本で必要なこと:00e0da8c80ab0035f5205312a77ddbff&#34;&gt;成人向け本で必要なこと&lt;/h4&gt;
+
+&lt;ol&gt;
+&lt;li&gt;表紙の目立つ位置に成人向けであるという表記か、マーク&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;18禁, 成人向け, 成年向け, ADULT ONLY など&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;消し&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;明確なガイドラインはなし…&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;出展イベントの参加要綱やガイドラインを参考に…&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;最悪、イベント会場でマジックで一冊ずつNGが出た箇所を塗りつぶす事で取り扱いOKとなる&lt;/strong&gt; という話もあるが…？&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&#34;奥付に関して:00e0da8c80ab0035f5205312a77ddbff&#34;&gt;奥付に関して&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;奥付には、その本の発行者や発行者の連絡先、発行年月日、印刷所名などを記載します。&lt;br /&gt;
+最低限乗せておいた方が良い内容や、間違いの多い点などをご紹介します。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;必要な情報は以下。&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;発行日&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;本を公開する日。 &lt;strong&gt;イベントの日にち&lt;/strong&gt; など&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;発行者&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;連絡先&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;HPのURL,　メールアドレスなど&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;pixivID、TwitterIDでは &lt;strong&gt;NGを喰らう可能性あり&lt;/strong&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;印刷所&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;上記をもとに、こんな感じ。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;奥付
+=====
+
+:発行日: YYYY/MM/DD
+:発行者: mysyutar
+:連絡先: http://mysyutar.github.io
+:印刷所: 株式会社ポプルス
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h4 id=&#34;入稿の手順:00e0da8c80ab0035f5205312a77ddbff&#34;&gt;入稿の手順&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ポプルスマイページ(要登録)から &lt;code&gt;予約問い合わせ&lt;/code&gt; を行った&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;データ入稿(Webアップロード)&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;先述したクリスタで本を一括で生成したものと、出力情報のテキストをzip圧縮してアップロードした&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;金額が確定したのち振込&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;差し戻ってきた時のあれこれ:00e0da8c80ab0035f5205312a77ddbff&#34;&gt;差し戻ってきた時のあれこれ&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;差し戻しは発生していないので、あれば記述する&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;当日までにすべきこと:00e0da8c80ab0035f5205312a77ddbff&#34;&gt;当日までにすべきこと&lt;/h2&gt;
+
+&lt;h3 id=&#34;サークルカットの登録:00e0da8c80ab0035f5205312a77ddbff&#34;&gt;サークルカットの登録&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;サークルカットをWebで登録する&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;大抵主催側でテンプレートが用意されているはず&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;これにいろいろ書いて主催者に提出&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;当日すべきこと:00e0da8c80ab0035f5205312a77ddbff&#34;&gt;当日すべきこと&lt;/h2&gt;
+
+&lt;h3 id=&#34;忘れ物注意:00e0da8c80ab0035f5205312a77ddbff&#34;&gt;忘れ物注意&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;イベント参加用の印を入り口で提示する&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;大体腕に巻くテープが多い？&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;見本紙の提出:00e0da8c80ab0035f5205312a77ddbff&#34;&gt;見本紙の提出&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;会場のスタッフさんに(運営エリアにいる)今回取り扱う本を提出し、チェックしてもらう&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;成人向けの場合はここで消しのチェックなどもされていると思う&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;その他:00e0da8c80ab0035f5205312a77ddbff&#34;&gt;その他&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;印刷所のパンフレットや、他イベントの広告がてんこもりに積まれているはずなので、それを片付ける&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;イベントキャンセルする場合:00e0da8c80ab0035f5205312a77ddbff&#34;&gt;イベントキャンセルする場合&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;参加費は返してもらわなくていいんだけど、当日突発的な事故等でいけない可能性もあるよという事で&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;基本的にイベントによりけりでなんともいえないが、キャンセルを受け付けるイベント自体そんなにない&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;大体スペースが空っぽになっているだけ&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;ある程度時間がたつと、会場のスタッフさんが「ここ欠席」みたいな紙を貼りにくる&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;コミックマーケットでは当日欠席すると次回にペナルティがあるみたい&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;キャンセルによって空いたスペースを抽選漏れした他の人に回すのかなーと思っていたんだけど、そういうわけでもないらしい。&lt;/p&gt;
+
+&lt;p&gt;ということで、&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;イベントHPや主催から発信される情報をチェック&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;キャンセルを受け付けている場合は、それに従って処理をする&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;特にキャンセルを受け付けていないイベントの場合は申し訳ないがそのまま&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>yu-my-star Works</title>
@@ -24,25 +335,25 @@
 &lt;p&gt;&lt;a href=&#34;http://www.dlsite.com/maniax/dlaf/=/link/work/aid/yumystar/id/RJ154849.html&#34; target=&#34;_blank&#34;&gt;&lt;img itemprop=&#34;image&#34; src=&#34;//img.dlsite.jp/modpub/images2/work/doujin/RJ155000/RJ154849_img_main.jpg&#34; alt=&#34;GirlsRyoM Vol.1 千○ちひろの前立腺面談&#34; title=&#34;GirlsRyoM Vol.1 千○ちひろの前立腺面談&#34; border=&#34;0&#34; class=&#34;target_type&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;初版発行日
+&lt;li&gt;初版発行日&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;2015/05/03&lt;/li&gt;
+&lt;li&gt;2015/05/03&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ジャンル
+&lt;li&gt;ジャンル&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;アイドルマスターディアリースターズ、シンデレラガールズ&lt;/li&gt;
+&lt;li&gt;アイドルマスターディアリースターズ、シンデレラガールズ&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;登場人物
+&lt;li&gt;登場人物&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;秋月涼、千川ちひろ&lt;/li&gt;
+&lt;li&gt;秋月涼、千川ちひろ&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;その他
+&lt;li&gt;その他&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -51,25 +362,25 @@
 &lt;p&gt;&lt;a href=&#34;http://www.dlsite.com/maniax/dlaf/=/link/work/aid/yumystar/id/RJ154848.html&#34; target=&#34;_blank&#34;&gt;&lt;img itemprop=&#34;image&#34; src=&#34;//img.dlsite.jp/modpub/images2/work/doujin/RJ155000/RJ154848_img_main.jpg&#34; alt=&#34;まどかと杏子で攻めるから玉で堕ちてねvほむらちゃん&#34; title=&#34;まどかと杏子で攻めるから玉で堕ちてねvほむらちゃん&#34; border=&#34;0&#34; class=&#34;target_type&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;初版発行日
+&lt;li&gt;初版発行日&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;2015/01/25&lt;/li&gt;
+&lt;li&gt;2015/01/25&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ジャンル
+&lt;li&gt;ジャンル&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;魔法少女まどか☆マギカ&lt;/li&gt;
+&lt;li&gt;魔法少女まどか☆マギカ&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;登場人物
+&lt;li&gt;登場人物&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;鹿目まどか、暁美ほむら、佐倉杏子&lt;/li&gt;
+&lt;li&gt;鹿目まどか、暁美ほむら、佐倉杏子&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;その他
+&lt;li&gt;その他&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -78,25 +389,25 @@
 &lt;p&gt;&lt;a href=&#34;http://www.dlsite.com/maniax/dlaf/=/link/work/aid/yumystar/id/RJ154847.html&#34; target=&#34;_blank&#34;&gt;&lt;img itemprop=&#34;image&#34; src=&#34;//img.dlsite.jp/modpub/images2/work/doujin/RJ155000/RJ154847_img_main.jpg&#34; alt=&#34;まどかのお願いぜーんぶきいてねvほむらちゃん&#34; title=&#34;まどかのお願いぜーんぶきいてねvほむらちゃん&#34; border=&#34;0&#34; class=&#34;target_type&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;初版発行日
+&lt;li&gt;初版発行日&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;2015/01/25&lt;/li&gt;
+&lt;li&gt;2015/01/25&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ジャンル
+&lt;li&gt;ジャンル&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;魔法少女まどか☆マギカ&lt;/li&gt;
+&lt;li&gt;魔法少女まどか☆マギカ&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;登場人物
+&lt;li&gt;登場人物&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;鹿目まどか、暁美ほむら&lt;/li&gt;
+&lt;li&gt;鹿目まどか、暁美ほむら&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;その他
+&lt;li&gt;その他&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -107,25 +418,25 @@
 &lt;p&gt;&lt;a href=&#34;http://www.dlsite.com/maniax/dlaf/=/link/work/aid/yumystar/id/RJ139781.html&#34; target=&#34;_blank&#34;&gt;&lt;img itemprop=&#34;image&#34; src=&#34;//img.dlsite.jp/modpub/images2/work/doujin/RJ140000/RJ139781_img_main.jpg&#34; alt=&#34;ウオミーの玉しか責めない本&#34; title=&#34;ウオミーの玉しか責めない本&#34; border=&#34;0&#34; class=&#34;target_type&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;初版発行日
+&lt;li&gt;初版発行日&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;2014/08/17&lt;/li&gt;
+&lt;li&gt;2014/08/17&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ジャンル
+&lt;li&gt;ジャンル&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;生徒会役員共&lt;/li&gt;
+&lt;li&gt;生徒会役員共&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;登場人物
+&lt;li&gt;登場人物&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;天草シノ、七条アリア、魚見&lt;/li&gt;
+&lt;li&gt;天草シノ、七条アリア、魚見&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;その他
+&lt;li&gt;その他&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
