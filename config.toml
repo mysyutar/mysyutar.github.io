@@ -6,6 +6,10 @@ publishdir = "_site"
 theme = "mytheme"
 paginate = 5
 
+[blackfriday]
+  fractions = false
+  extensions = ["hardLineBreak"]
+
 [permalinks]
   post = "/:year/:month/:day/:slug/"
 
