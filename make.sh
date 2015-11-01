@@ -18,7 +18,7 @@ if [ $1 = "post" ]; then
   echo "date: ${DATE}"            >> ${FILE}
   echo "title: \"${NAME}\""       >> ${FILE}
   echo "slug: \"${NAME}\""        >> ${FILE}
-  echo "categories: [misc, work, review]" >> ${FILE}
+  echo "categories: [misc, cm, work, review]" >> ${FILE}
   echo "tags: [日記]"             >> ${FILE}
   echo "---"                      >> ${FILE}
   echo ""                         >> ${FILE}
