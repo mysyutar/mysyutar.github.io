@@ -23,6 +23,8 @@ if [ $1 = "post" ]; then
   echo "---"                      >> ${FILE}
   echo ""                         >> ${FILE}
   echo "## headline"              >> ${FILE}
+elif [ $1 = "build" ]; then
+  hugo
 elif [ $1 = "serve" ]; then
   HOSTNAME=`hostname`
   hugo server --bind=0.0.0.0 --baseUrl=http://${HOSTNAME} -w --port=4000
