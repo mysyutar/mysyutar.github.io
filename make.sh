@@ -24,7 +24,8 @@ if [ $1 = "post" ]; then
   echo ""                         >> ${FILE}
   echo "## headline"              >> ${FILE}
 elif [ $1 = "serve" ]; then
-  hugo server --bind=0.0.0.0 --baseUrl=http://219.94.249.150 -w --port=4000
+  HOSTNAME=`hostname`
+  hugo server --bind=0.0.0.0 --baseUrl=http://${HOSTNAME} -w --port=4000
 elif [ $1 = "deploy" ]; then
   DATE=`date +"%Y/%m/%d %T"`
 
