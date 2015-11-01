@@ -1,4 +1,5 @@
 #!/bin/sh
+set -ex
 
 if [ $1 = "post" ]; then
   DATE=`date +%Y-%m-%dT%T+09:00`
