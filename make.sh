@@ -26,25 +26,17 @@ if [ $1 = "post" ]; then
 elif [ $1 = "serve" ]; then
   hugo server --bind=0.0.0.0 --baseUrl=http://219.94.249.150 -w --port=4000
 elif [ $1 = "deploy" ]; then
-  NAME=`git config --local user.name`
-  EMAIL=`git config --local user.email`
   DATE=`date +"%Y/%m/%d %T"`
 
-  git push origin HEAD
-
-  rm -rf _site/*
+  git push origin source:source
+  rm -rf _site
+  git clone -b master git@github.com:mysyutar/mysyutar.github.io.git _site
   hugo
-
   cd _site
 
-  git remote add origin git@github-my.com:mysyutar/mysyutar.github.io.git
-  git pull
-  `git config --local --add user.name ${NAME}`
-  `git config --local --add user.email ${EMAIL}`
-  git add ./
+  git add -A
   git commit -m "Deploy at ${DATE}"
-
-  git push -f origin master
+  git push origin master:master
 else
   echo "Usage: $0 [post|build|serve|deploy]"
 fi
