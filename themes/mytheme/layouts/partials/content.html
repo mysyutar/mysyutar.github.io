@@ -4,22 +4,24 @@
 	{{ $baseUrl := .Site.BaseURL }}
 	<!-- If exist Categories list then show -->
 	<div class="published">
-		{{ if .Params.categories }}
-			<span>Categories:</span>
-			{{ range $name, $value := .Params.categories }}
-				<code><a href="{{ $baseUrl }}/categories/{{ $value | urlize }}">{{ $value }}</a></code>
+		<i>
+			{{ if .Params.categories }}
+				<span>Categories:</span>
+				{{ range $name, $value := .Params.categories }}
+					<code><a href="{{ $baseUrl }}/categories/{{ $value | urlize }}">{{ $value }}</a></code>
+				{{ end }}
+				<span>|</span>
 			{{ end }}
-			<span>|</span>
-		{{ end }}
-		<!-- If exist Tags list then show-->
-		{{ if .Params.tags }}
-			<span>Tags:</span>
-			{{ range $name, $value := .Params.tags }}
-				<code><a href="{{ $baseUrl }}/tags/{{ $value | urlize }}">{{ $value }}</a></code>
+			<!-- If exist Tags list then show-->
+			{{ if .Params.tags }}
+				<span>Tags:</span>
+				{{ range $name, $value := .Params.tags }}
+					<code><a href="{{ $baseUrl }}/tags/{{ $value | urlize }}">{{ $value }}</a></code>
+				{{ end }}
+				<span>|</span>
 			{{ end }}
-			<span>|</span>
-		{{ end }}
-		<span>Published: <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006/01/02" }}</time></span>
+			<span>Published: <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006/01/02" }}</time></span>
+		</i>
 	</div>
 </div>
 <section>
