@@ -2403,7 +2403,7 @@ h1, h2, h3, h4, h5, h6,
   font-weight: 300;
   line-height: 1.2;
   color: inherit;
-  border-bottom: 2px dotted #b4bcc2;
+  border-bottom: 1px solid #b4bcc2;
 }
 h1 small,
 h1 .small, h2 small,
@@ -2461,21 +2461,21 @@ h6 .small, .h6 small,
 }
 
 h1, .h1 {
-  font-size: 32px;
-  border-bottom: 5px solid #b4bcc2;
+  font-size: 20px;
+  //border-bottom: 5px solid #b4bcc2;
 }
 
 h2, .h2 {
-  font-size: 28px;
-  border-bottom: 6px double #b4bcc2;
+  font-size: 16px;
+  border-bottom: 1px dotted #b4bcc2;
 }
 
 h3, .h3 {
-  font-size: 24px;
+  font-size: 16px;
 }
 
 h4, .h4 {
-  font-size: 19px;
+  font-size: 16px;
 }
 
 h5, .h5 {
