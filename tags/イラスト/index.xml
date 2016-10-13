@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>イラスト on yu-my-star</title>
-    <link>http://mysyutar.github.io/tags/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88/</link>
-    <description>Recent content in イラスト on yu-my-star</description>
+    <title>yu-my-star</title>
+    <link>http://mysyutar.github.io/tags/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88/index.xml</link>
+    <description>Recent content on yu-my-star</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 30 Sep 2013 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://mysyutar.github.io/tags/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -17,15 +16,16 @@
       <guid>http://mysyutar.github.io/2013/09/30/diary/</guid>
       <description>
 
-&lt;h2 id=&#34;月間作業報告:5f98258918481a8ab3e527f372c6a44a&#34;&gt;月間作業報告&lt;/h2&gt;
+&lt;h2 id=&#34;月間作業報告&#34;&gt;月間作業報告&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Surface Proを買って画面に直に絵を描ける環境を構築してみた&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;ラブライブBDマラソン無事完走&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;みなみけの一挙放送を見た&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;みなみけの一挙放送を見た&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;みなみけ:5f98258918481a8ab3e527f372c6a44a&#34;&gt;みなみけ&lt;/h2&gt;
+&lt;h2 id=&#34;みなみけ&#34;&gt;みなみけ&lt;/h2&gt;
 
 &lt;p&gt;みなみけのアニメを全部見て、追ってなかった事が悔やまれた…。&lt;/p&gt;
 
@@ -52,7 +52,7 @@
       <guid>http://mysyutar.github.io/2013/07/29/mitsudomoe/</guid>
       <description>
 
-&lt;h2 id=&#34;イラスト:3625dfd14e2bf86af4c420f2e67b99a3&#34;&gt;イラスト&lt;/h2&gt;
+&lt;h2 id=&#34;イラスト&#34;&gt;イラスト&lt;/h2&gt;
 
 &lt;p&gt;&lt;script src=&#34;http://source.pixiv.net/source/embed.js&#34; data-id=&#34;37406301_f46ef5b826e95a524c330d66909ac909&#34; data-size=&#34;medium&#34; data-border=&#34;on&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;p&gt;&lt;a href=&#34;http://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=37406301&#34; target=&#34;_blank&#34;&gt;松岡さん洗浄中&lt;/a&gt; by &lt;a href=&#34;http://www.pixiv.net/member.php?id=1432163&#34; target=&#34;_blank&#34;&gt;まいしゅたー&lt;/a&gt; on &lt;a href=&#34;http://www.pixiv.net/&#34; target=&#34;_blank&#34;&gt;pixiv&lt;/a&gt;&lt;/p&gt;&lt;/noscript&gt;&lt;/p&gt;
 
@@ -76,7 +76,7 @@
 
 &lt;p&gt;ひさかたぶりの更新。&lt;/p&gt;
 
-&lt;h2 id=&#34;イラスト:5bb4beb10764f3bdb843382961f19fec&#34;&gt;イラスト&lt;/h2&gt;
+&lt;h2 id=&#34;イラスト&#34;&gt;イラスト&lt;/h2&gt;
 
 &lt;p&gt;もりたさんはむくちまるさんじょう！&lt;/p&gt;
 
@@ -98,7 +98,7 @@
       <guid>http://mysyutar.github.io/2012/12/12/moritasan/</guid>
       <description>
 
-&lt;h2 id=&#34;森田さんは無口-第6巻-チェックポイント-前編:9ccd48ae7561e87dbf5b7e2233fdc4d9&#34;&gt;森田さんは無口 第6巻 チェックポイント 前編&lt;/h2&gt;
+&lt;h2 id=&#34;森田さんは無口-第6巻-チェックポイント-前編&#34;&gt;森田さんは無口 第6巻 チェックポイント 前編&lt;/h2&gt;
 
 &lt;p&gt;すぐ買いました…Amazonにしてやられたので書店で買ったものとAmazonから届いたもの合わせて2冊になってしまった…。&lt;/p&gt;
 
@@ -108,14 +108,14 @@
 
 &lt;p&gt;花ちゃんと千尋かわいいよ〜。&lt;/p&gt;
 
-&lt;h3 id=&#34;カラーページ:9ccd48ae7561e87dbf5b7e2233fdc4d9&#34;&gt;カラーページ&lt;/h3&gt;
+&lt;h3 id=&#34;カラーページ&#34;&gt;カラーページ&lt;/h3&gt;
 
 &lt;p&gt;音楽室の机に見つけた一言いたずらメッセージ。森田さんが気まぐれで返信を書くと…。&lt;br /&gt;
 音楽のたびに会話が増えるね！&lt;/p&gt;
 
 &lt;p&gt;発信主…いったい誰なんだ。&lt;/p&gt;
 
-&lt;h3 id=&#34;裏表紙-私服編:9ccd48ae7561e87dbf5b7e2233fdc4d9&#34;&gt;裏表紙 私服編&lt;/h3&gt;
+&lt;h3 id=&#34;裏表紙-私服編&#34;&gt;裏表紙 私服編&lt;/h3&gt;
 
 &lt;p&gt;森田さんの部屋で私服の見せ合い。&lt;/p&gt;
 
@@ -129,7 +129,7 @@
 
 &lt;p&gt;もう一つのオチは花ちゃん暗黒教団化。なんてこったい。&lt;/p&gt;
 
-&lt;h3 id=&#34;silence-93-パンチラ森田さん:9ccd48ae7561e87dbf5b7e2233fdc4d9&#34;&gt;Silence 93 パンチラ森田さん&lt;/h3&gt;
+&lt;h3 id=&#34;silence-93-パンチラ森田さん&#34;&gt;Silence 93 パンチラ森田さん&lt;/h3&gt;
 
 &lt;p&gt;家庭科(って高校であるんだっけ？)の授業。&lt;/p&gt;
 
@@ -143,7 +143,7 @@
 
 &lt;p&gt;口を動かす余裕もなく一人黙々と続きに取り組んでいた森田さん、ワンピースを縫い終わると…。&lt;/p&gt;
 
-&lt;h3 id=&#34;silence-94-気が利くということ:9ccd48ae7561e87dbf5b7e2233fdc4d9&#34;&gt;Silence 94 気が利くということ&lt;/h3&gt;
+&lt;h3 id=&#34;silence-94-気が利くということ&#34;&gt;Silence 94 気が利くということ&lt;/h3&gt;
 
 &lt;p&gt;気を利かせるとは。お礼を言われるためにやってるわけじゃないんだけど…。&lt;/p&gt;
 
@@ -155,7 +155,7 @@
 
 &lt;p&gt;男子轟沈。&lt;/p&gt;
 
-&lt;h3 id=&#34;silence-95-村越美樹-女子高生-人よりちょっぴりおしゃべりです:9ccd48ae7561e87dbf5b7e2233fdc4d9&#34;&gt;Silence 95 村越美樹 女子高生 人よりちょっぴりおしゃべりです&lt;/h3&gt;
+&lt;h3 id=&#34;silence-95-村越美樹-女子高生-人よりちょっぴりおしゃべりです&#34;&gt;Silence 95 村越美樹 女子高生 人よりちょっぴりおしゃべりです&lt;/h3&gt;
 
 &lt;p&gt;上記ナレーションから始まる回。今回は美樹が主役。&lt;/p&gt;
 
@@ -163,7 +163,7 @@
 
 &lt;p&gt;リップを塗るだけで女子を惹きつけるなんて森田さんマジ魔性。&lt;/p&gt;
 
-&lt;h3 id=&#34;silence-96-両親温泉旅行につき-雪乃さんとお留守番:9ccd48ae7561e87dbf5b7e2233fdc4d9&#34;&gt;Silence 96 両親温泉旅行につき、雪乃さんとお留守番&lt;/h3&gt;
+&lt;h3 id=&#34;silence-96-両親温泉旅行につき-雪乃さんとお留守番&#34;&gt;Silence 96 両親温泉旅行につき、雪乃さんとお留守番&lt;/h3&gt;
 
 &lt;p&gt;森田さんの父母が紆余曲折ありつつも、温泉旅行へ。&lt;/p&gt;
 
@@ -173,7 +173,7 @@
 
 &lt;p&gt;とても濃い話を夜通し聞かされてやつれ気味。&lt;/p&gt;
 
-&lt;h3 id=&#34;silence-97-花ちゃんの気持ち:9ccd48ae7561e87dbf5b7e2233fdc4d9&#34;&gt;Silence 97 花ちゃんの気持ち&lt;/h3&gt;
+&lt;h3 id=&#34;silence-97-花ちゃんの気持ち&#34;&gt;Silence 97 花ちゃんの気持ち&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;花ちゃん回！！&lt;/strong&gt; 6巻はこの回のためにあったのか…。&lt;/p&gt;
 
@@ -195,7 +195,7 @@
 
 &lt;p&gt;千尋×花ちゃん…ありだな。&lt;/p&gt;
 
-&lt;h3 id=&#34;silence-98-おしゃべりクッキング:9ccd48ae7561e87dbf5b7e2233fdc4d9&#34;&gt;Silence 98 おしゃべりクッキング&lt;/h3&gt;
+&lt;h3 id=&#34;silence-98-おしゃべりクッキング&#34;&gt;Silence 98 おしゃべりクッキング&lt;/h3&gt;
 
 &lt;p&gt;バレンタインデーにつき、森田さん家で手作りチョコを作ります。その結果に至るまでの森田さんの過程にも注目…策士です。&lt;/p&gt;
 
@@ -203,7 +203,7 @@
 
 &lt;p&gt;チョコはできたものの、最終的に誰に渡したのかは不明。森田さんは父と…山本さんか。&lt;/p&gt;
 
-&lt;h3 id=&#34;silence-99-小野間さん:9ccd48ae7561e87dbf5b7e2233fdc4d9&#34;&gt;Silence 99 小野間さん&lt;/h3&gt;
+&lt;h3 id=&#34;silence-99-小野間さん&#34;&gt;Silence 99 小野間さん&lt;/h3&gt;
 
 &lt;p&gt;新キャラ登場…かと思ったら全然違う。&lt;/p&gt;
 
@@ -211,7 +211,7 @@
 
 &lt;p&gt;途中不意打ち気味に出てくる猫耳牧先生…いったいどこから…。&lt;/p&gt;
 
-&lt;h3 id=&#34;silence-100-性別が逆だったら:9ccd48ae7561e87dbf5b7e2233fdc4d9&#34;&gt;Silence 100 性別が逆だったら&lt;/h3&gt;
+&lt;h3 id=&#34;silence-100-性別が逆だったら&#34;&gt;Silence 100 性別が逆だったら&lt;/h3&gt;
 
 &lt;p&gt;美樹がふられすぎて壊れた。&lt;/p&gt;
 
@@ -229,15 +229,15 @@
       <guid>http://mysyutar.github.io/2012/11/12/mitsudomoe/</guid>
       <description>
 
-&lt;h2 id=&#34;236卵性-最終実況計画:0fedd92199b0605bc3ca7df90cfcdd4b&#34;&gt;236卵性「最終実況計画」&lt;/h2&gt;
+&lt;h2 id=&#34;236卵性-最終実況計画&#34;&gt;236卵性「最終実況計画」&lt;/h2&gt;
 
-&lt;h3 id=&#34;表紙:0fedd92199b0605bc3ca7df90cfcdd4b&#34;&gt;表紙&lt;/h3&gt;
+&lt;h3 id=&#34;表紙&#34;&gt;表紙&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;緊縛三女さん&lt;/strong&gt; …！&lt;/p&gt;
 
 &lt;p&gt;もっときつめにしないと除霊できないって住職さんが言ってた！&lt;/p&gt;
 
-&lt;h3 id=&#34;本編:0fedd92199b0605bc3ca7df90cfcdd4b&#34;&gt;本編&lt;/h3&gt;
+&lt;h3 id=&#34;本編&#34;&gt;本編&lt;/h3&gt;
 
 &lt;p&gt;ボニョボニョとした実況…していたのは放送委員になってた三女さん。&lt;/p&gt;
 
@@ -285,9 +285,9 @@
       <guid>http://mysyutar.github.io/2012/10/22/mitsudomoe/</guid>
       <description>
 
-&lt;h2 id=&#34;235卵性-ハムナプタラ-純白のピラミッド:4f4f982b3b8e9492d614c4cd2696e6a4&#34;&gt;235卵性「ハムナプタラ／純白のピラミッド」&lt;/h2&gt;
+&lt;h2 id=&#34;235卵性-ハムナプタラ-純白のピラミッド&#34;&gt;235卵性「ハムナプタラ／純白のピラミッド」&lt;/h2&gt;
 
-&lt;h3 id=&#34;表紙:4f4f982b3b8e9492d614c4cd2696e6a4&#34;&gt;表紙&lt;/h3&gt;
+&lt;h3 id=&#34;表紙&#34;&gt;表紙&lt;/h3&gt;
 
 &lt;p&gt;表紙(カラー)で丸井三姉妹とチーム杉崎の騎馬！&lt;/p&gt;
 
@@ -301,7 +301,7 @@
 
 &lt;p&gt;多分いちばんはじめにこのシチュを見たのはファイアーエムブレムのチキだったような気がする。&lt;/p&gt;
 
-&lt;h3 id=&#34;本編:4f4f982b3b8e9492d614c4cd2696e6a4&#34;&gt;本編&lt;/h3&gt;
+&lt;h3 id=&#34;本編&#34;&gt;本編&lt;/h3&gt;
 
 &lt;p&gt;本編は、太鼓持ちくんが組体操の主役に抜擢されるお話。&lt;/p&gt;
 
@@ -311,7 +311,7 @@
 
 &lt;p&gt;結局、太鼓持ちくんはみっちゃんのブルマで心が折れてあきらめたのかな？&lt;/p&gt;
 
-&lt;h2 id=&#34;その他:4f4f982b3b8e9492d614c4cd2696e6a4&#34;&gt;その他&lt;/h2&gt;
+&lt;h2 id=&#34;その他&#34;&gt;その他&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;最後のページでふたばが有言実行&lt;br /&gt;&lt;/li&gt;
@@ -328,7 +328,7 @@
       <guid>http://mysyutar.github.io/2012/09/26/mitsudomoe/</guid>
       <description>
 
-&lt;h2 id=&#34;234卵性-胸を描くよ:bc61a2a38b33abf8dc60a413e99ff190&#34;&gt;234卵性「胸を描くよ」&lt;/h2&gt;
+&lt;h2 id=&#34;234卵性-胸を描くよ&#34;&gt;234卵性「胸を描くよ」&lt;/h2&gt;
 
 &lt;p&gt;前回の続き？　授業後の着替えシーンから。&lt;/p&gt;
 
@@ -362,7 +362,7 @@
       <guid>http://mysyutar.github.io/2012/08/17/mitsudomoe/</guid>
       <description>
 
-&lt;h2 id=&#34;松岡さん髪ほどいたら女子力高すぎるだろ:f8a70fc3c7ee2dcb5dffcc3bb0b748e1&#34;&gt;松岡さん髪ほどいたら女子力高すぎるだろ！&lt;/h2&gt;
+&lt;h2 id=&#34;松岡さん髪ほどいたら女子力高すぎるだろ&#34;&gt;松岡さん髪ほどいたら女子力高すぎるだろ！&lt;/h2&gt;
 
 &lt;p&gt;&lt;script src=&#34;http://source.pixiv.net/source/embed.js&#34; data-id=&#34;29427602_5cefcbffdff8ab1d8f2155f2566d5b90&#34; data-size=&#34;medium&#34; data-border=&#34;on&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;br /&gt;
 &lt;noscript&gt;&lt;p&gt;&lt;a href=&#34;http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=29427602&#34; target=&#34;_blank&#34;&gt;まさか松岡さん、吉岡さん、三女さんでみつどもえ状態になるとは…&lt;/a&gt; by &lt;a href=&#34;http://www.pixiv.net/member.php?id=1432163&#34; target=&#34;_blank&#34;&gt;まいしゅたー&lt;/a&gt; on &lt;a href=&#34;http://www.pixiv.net/&#34; target=&#34;_blank&#34;&gt;pixiv&lt;/a&gt;&lt;/p&gt;&lt;/noscript&gt;&lt;/p&gt;
@@ -385,7 +385,7 @@
 
 &lt;p&gt;色々な要素が詰め込まれてて非常に興味深いので、挙げてみましょう。&lt;/p&gt;
 
-&lt;h3 id=&#34;お見舞いの不吉な品:f8a70fc3c7ee2dcb5dffcc3bb0b748e1&#34;&gt;お見舞いの不吉な品&lt;/h3&gt;
+&lt;h3 id=&#34;お見舞いの不吉な品&#34;&gt;お見舞いの不吉な品&lt;/h3&gt;
 
 &lt;p&gt;三女さんは「本人の希望だもの…」とか言ってる割に、受け取った松岡さんは大はしゃぎ。&lt;/p&gt;
 
@@ -393,7 +393,7 @@
 
 &lt;p&gt;なんやかんや言いつつも、お見舞いの品を作って持ってくるのは確定だったわけね。いい娘だ。&lt;/p&gt;
 
-&lt;h3 id=&#34;今日もいない:f8a70fc3c7ee2dcb5dffcc3bb0b748e1&#34;&gt;今日もいない&lt;/h3&gt;
+&lt;h3 id=&#34;今日もいない&#34;&gt;今日もいない&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;「ああ、今日もいないよ…」&lt;/p&gt;
@@ -405,14 +405,15 @@
 
 &lt;ul&gt;
 &lt;li&gt;三女さんは全身経文以降も松岡さんのお見舞いに通っていた&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;杉ちゃんたちはこの日初めてお見舞いに来ることになったので連れてきた&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;杉ちゃんたちはこの日初めてお見舞いに来ることになったので連れてきた&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;という事？　&lt;strike&gt;もう妻だろう。&lt;/strike&gt;&lt;/p&gt;
 
 &lt;p&gt;そこまでしておいての三女さんの照れ隠しだもんなー。クラス公認でイチャコラするといいよ。&lt;/p&gt;
 
-&lt;h3 id=&#34;吉岡さんのジェラシー:f8a70fc3c7ee2dcb5dffcc3bb0b748e1&#34;&gt;吉岡さんのジェラシー&lt;/h3&gt;
+&lt;h3 id=&#34;吉岡さんのジェラシー&#34;&gt;吉岡さんのジェラシー&lt;/h3&gt;
 
 &lt;p&gt;…そんな中、なぜか三女さんへのジェラシー爆発な吉岡さん。&lt;/p&gt;
 
@@ -420,7 +421,7 @@
 
 &lt;p&gt;とはいえ、ここから松岡さん-吉岡さんラインができるかもしれないのでちょい期待。&lt;/p&gt;
 
-&lt;h3 id=&#34;さっちゃ:f8a70fc3c7ee2dcb5dffcc3bb0b748e1&#34;&gt;さっちゃ…&lt;/h3&gt;
+&lt;h3 id=&#34;さっちゃ&#34;&gt;さっちゃ…&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;さっちゃん！&lt;/strong&gt;　杉ちゃん以来の快挙！&lt;/p&gt;
 
@@ -445,7 +446,7 @@
 &lt;p&gt;&lt;script src=&#34;http://source.pixiv.net/source/embed.js&#34; data-id=&#34;27123059_0b7fe6b47f54bad06e43e712eea6e5a0&#34; data-size=&#34;medium&#34; data-border=&#34;on&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;br /&gt;
 &lt;noscript&gt;&lt;a href=&#34;http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=27123059&#34; target=&#34;_blank&#34;&gt;ブルマセーラー服といえば柏木楓ちゃん一択でお願いします&lt;/a&gt; by &lt;a href=&#34;http://www.pixiv.net/member.php?id=1432163&#34; target=&#34;_blank&#34;&gt;まいしゅたー&lt;/a&gt; on &lt;a href=&#34;http://www.pixiv.net/&#34; target=&#34;_blank&#34;&gt;pixiv&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;あらすじ:cc7744004f421f73a46faf51b07b4af9&#34;&gt;あらすじ&lt;/h2&gt;
+&lt;h2 id=&#34;あらすじ&#34;&gt;あらすじ&lt;/h2&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;痕とは、1996年にLeafから発売されたリーフビジュアルノベルシリーズの第二弾で&lt;/p&gt;
@@ -459,15 +460,16 @@
 
 &lt;p&gt;ついでにヒロインが会長をやっている旅館(のモデルとなっている旅館)に泊まってきたので、その成果を以下に記します。&lt;/p&gt;
 
-&lt;h2 id=&#34;参考サイト:cc7744004f421f73a46faf51b07b4af9&#34;&gt;参考サイト&lt;/h2&gt;
+&lt;h2 id=&#34;参考サイト&#34;&gt;参考サイト&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://park7.wakwak.com/%7Emtak/m/photos/kizuato.htm&#34;&gt;実地検分【痕 -きずあと-】&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www2s.biglobe.ne.jp/%7Eturugiya/kagaya.html&#34;&gt;痕　加賀屋旅館宿泊ツアー(石川県　2003年7月)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://souzou.tm.land.to/pilgrim/kizu/kizu1.htm&#34;&gt;痕の聖地を訪ねて&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://souzou.tm.land.to/pilgrim/kizu/kizu1.htm&#34;&gt;痕の聖地を訪ねて&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;金沢駅-香林坊武家屋敷:cc7744004f421f73a46faf51b07b4af9&#34;&gt;金沢駅-香林坊武家屋敷&lt;/h2&gt;
+&lt;h2 id=&#34;金沢駅-香林坊武家屋敷&#34;&gt;金沢駅-香林坊武家屋敷&lt;/h2&gt;
 
 &lt;p&gt;手始めに金沢駅で降車。&lt;/p&gt;
 
@@ -475,7 +477,7 @@
 
 &lt;p&gt;金沢駅からバスに乗り、香林坊を目指す。&lt;/p&gt;
 
-&lt;h3 id=&#34;比較-左-旧版-右-2009年版:cc7744004f421f73a46faf51b07b4af9&#34;&gt;比較(左:旧版、右:2009年版)&lt;/h3&gt;
+&lt;h3 id=&#34;比較-左-旧版-右-2009年版&#34;&gt;比較(左:旧版、右:2009年版)&lt;/h3&gt;
 
 &lt;p&gt;旧版と新版では大きな変化もなくといったところ。いつ見ても立派な門構えだ…。&lt;/p&gt;
 
@@ -504,7 +506,7 @@
 
 &lt;p&gt;&lt;img src=&#34;http://mysyutar.github.com/images/2012/05/21/kashiwagi5_i.jpg&#34; alt=&#34;kashiwagi5_i.jpg&#34; height=&#34;50%&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;七尾駅-小丸山公園:cc7744004f421f73a46faf51b07b4af9&#34;&gt;七尾駅-小丸山公園&lt;/h2&gt;
+&lt;h2 id=&#34;七尾駅-小丸山公園&#34;&gt;七尾駅-小丸山公園&lt;/h2&gt;
 
 &lt;p&gt;武家屋敷で決定的な写真が取れないまま北上し、石川県七尾市へ。&lt;/p&gt;
 
@@ -512,7 +514,7 @@
 
 &lt;p&gt;七尾駅周辺にはかおりちゃんが襲われた公園や、楓ちゃんの制服のモデルとなった高校などがあるらしい。(ただし、公園に関しては金沢のどこかの公園という説も散見されたので、詳細は不明)&lt;/p&gt;
 
-&lt;h3 id=&#34;比較-左-旧版-右-2009年版-1:cc7744004f421f73a46faf51b07b4af9&#34;&gt;比較(左:旧版、右:2009年版)&lt;/h3&gt;
+&lt;h3 id=&#34;比較-左-旧版-右-2009年版-1&#34;&gt;比較(左:旧版、右:2009年版)&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://mysyutar.github.com/images/2012/05/21/park1_o.jpg&#34; alt=&#34;park1_o.jpg&#34; height=&#34;50%&#34; width=&#34;50%&#34;&gt;&lt;br /&gt;
 &lt;img src=&#34;http://mysyutar.github.com/images/2012/05/21/park2_r.jpg&#34; alt=&#34;park2_r.jpg&#34; height=&#34;50%&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;
@@ -541,13 +543,13 @@
 
 &lt;p&gt;セーラー服最高！&lt;/p&gt;
 
-&lt;h2 id=&#34;和倉温泉駅-和倉温泉駅:cc7744004f421f73a46faf51b07b4af9&#34;&gt;和倉温泉駅-和倉温泉駅&lt;/h2&gt;
+&lt;h2 id=&#34;和倉温泉駅-和倉温泉駅&#34;&gt;和倉温泉駅-和倉温泉駅&lt;/h2&gt;
 
 &lt;p&gt;金沢に入ってから収穫らしい収穫もないまま、ついに終点和倉温泉駅まで来てしまった。&lt;/p&gt;
 
 &lt;p&gt;しかし、この和倉温泉駅は隆山駅にそっくりであるという事は知っていたので着いた瞬間からテンションあがります。&lt;/p&gt;
 
-&lt;h3 id=&#34;比較-左-旧版-右-2009年版-2:cc7744004f421f73a46faf51b07b4af9&#34;&gt;比較(左:旧版、右:2009年版)&lt;/h3&gt;
+&lt;h3 id=&#34;比較-左-旧版-右-2009年版-2&#34;&gt;比較(左:旧版、右:2009年版)&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://mysyutar.github.com/images/2012/05/21/takayama1_o.jpg&#34; alt=&#34;takayama1_o.jpg&#34; height=&#34;50%&#34; width=&#34;50%&#34;&gt;&lt;br /&gt;
 &lt;img src=&#34;http://mysyutar.github.com/images/2012/05/21/takayama1_r.jpg&#34; alt=&#34;takayama1_r.jpg&#34; height=&#34;50%&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;
@@ -583,7 +585,7 @@
 
 &lt;p&gt;数カ月前のなのに…。&lt;/p&gt;
 
-&lt;h2 id=&#34;内容:ed41ccfc0abee02d4baa8ea71eee41a6&#34;&gt;内容&lt;/h2&gt;
+&lt;h2 id=&#34;内容&#34;&gt;内容&lt;/h2&gt;
 
 &lt;p&gt;本編、モノローグ無し、オーディオコメンタリーで3度楽しめますね。&lt;/p&gt;
 
@@ -603,7 +605,8 @@
 
 &lt;ul&gt;
 &lt;li&gt;森田さんが自室で本を読んでいた時、居間で繰り広げられていた夫婦のケンカ(秋は読書の季節)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;森田さんで妄想している男子に役立たずどもが！　と言った後のりつきのお説教(真由は怒らない？)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;森田さんで妄想している男子に役立たずどもが！　と言った後のりつきのお説教(真由は怒らない？)&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;がきちんと聞き取れたこと。&lt;/p&gt;
@@ -624,7 +627,7 @@
 
 &lt;p&gt;これを買ってから通しで見ました…と言っても約40分 * 3で2時間か。&lt;/p&gt;
 
-&lt;h2 id=&#34;イラストのコーナー:ed41ccfc0abee02d4baa8ea71eee41a6&#34;&gt;イラストのコーナー&lt;/h2&gt;
+&lt;h2 id=&#34;イラストのコーナー&#34;&gt;イラストのコーナー&lt;/h2&gt;
 
 &lt;script src=&#34;http://source.pixiv.net/source/embed.js&#34; data-id=&#34;24152786_f7284fa34a05be9eb177e565fe47e9d8&#34; data-size=&#34;medium&#34; data-border=&#34;on&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;script src=&#34;http://source.pixiv.net/source/embed.js&#34; data-id=&#34;25578471_0f8f691ae70dc2488059458258681877&#34; data-size=&#34;medium&#34; data-border=&#34;on&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
@@ -648,7 +651,8 @@
 &lt;ul&gt;
 &lt;li&gt;ポヨポヨ観察日記…78&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;リコーダーとランドセル…33&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;森田さんは無口…47&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;森田さんは無口…47&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;うーんポヨの伸びは異常。&lt;/p&gt;
@@ -697,7 +701,7 @@
       <guid>http://mysyutar.github.io/2011/12/30/moritasan/</guid>
       <description>
 
-&lt;h2 id=&#34;森田さんは無口-2-第26話-四人は仲良し:71fd138cda6e6adbf544503c26b0930f&#34;&gt;森田さんは無口。2 第26話「四人は仲良し」&lt;/h2&gt;
+&lt;h2 id=&#34;森田さんは無口-2-第26話-四人は仲良し&#34;&gt;森田さんは無口。2 第26話「四人は仲良し」&lt;/h2&gt;
 
 &lt;p&gt;原作3巻 81-85ページ&lt;/p&gt;
 
@@ -713,13 +717,13 @@
 
 &lt;p&gt;今回はその一端を己のツイートとともに振り返ります。&lt;/p&gt;
 
-&lt;h3 id=&#34;出会い編:71fd138cda6e6adbf544503c26b0930f&#34;&gt;出会い編&lt;/h3&gt;
+&lt;h3 id=&#34;出会い編&#34;&gt;出会い編&lt;/h3&gt;
 
 &lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;ja&#34;&gt;&lt;p&gt;1. Silence64 森田さんと千尋の出会いの話&lt;/p&gt;— まいしゅたーさん (@mysyutar) &lt;a href=&#34;https://twitter.com/mysyutar/status/151616426057285632&#34; data-datetime=&#34;2011-12-27T10:52:37+00:00&#34;&gt;12月 27, 2011&lt;/a&gt;&lt;/blockquote&gt;
 
 &lt;p&gt;入学当初の話。森田さん、美樹と千尋の出会いの話をカバーしつつ最後花ちゃんでオチをつけられるのでいいかなと。&lt;/p&gt;
 
-&lt;h3 id=&#34;初詣編:71fd138cda6e6adbf544503c26b0930f&#34;&gt;初詣編&lt;/h3&gt;
+&lt;h3 id=&#34;初詣編&#34;&gt;初詣編&lt;/h3&gt;
 
 &lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;ja&#34;&gt;&lt;p&gt;あーー、初詣はみんなでかなー&lt;/p&gt;— まいしゅたーさん (@mysyutar) &lt;a href=&#34;https://twitter.com/mysyutar/status/151617255560589312&#34; data-datetime=&#34;2011-12-27T10:55:45+00:00&#34;&gt;12月 27, 2011&lt;/a&gt;&lt;/7T11:13:57+00:00&#34;&gt;12月 27, 2011&lt;/a&gt;&lt;/blockquote&gt;
 
@@ -729,7 +733,7 @@
 
 &lt;p&gt;4コマって単行本になるまでに結構時間がかかるので、1巻で一つの季節を巡っている感じに。&lt;/p&gt;
 
-&lt;h3 id=&#34;ウァレンティーヌス編:71fd138cda6e6adbf544503c26b0930f&#34;&gt;ウァレンティーヌス編&lt;/h3&gt;
+&lt;h3 id=&#34;ウァレンティーヌス編&#34;&gt;ウァレンティーヌス編&lt;/h3&gt;
 
 &lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;ja&#34;&gt;&lt;p&gt;うーん3期あったらバレンタインデーまでいけそうなのになぁ&lt;/p&gt;— まいしゅたーさん (@mysyutar) &lt;a href=&#34;https://twitter.com/mysyutar/status/151617894139179008&#34; data-datetime=&#34;2011-12-27T10:58:17+00:00&#34;&gt;12月 27, 2011&lt;/a&gt;&lt;/blockquote&gt;
 
@@ -737,7 +741,7 @@
 
 &lt;p&gt;3期でやってほしいですが。&lt;/p&gt;
 
-&lt;h3 id=&#34;千尋-花ちゃん編:71fd138cda6e6adbf544503c26b0930f&#34;&gt;千尋×花ちゃん編&lt;/h3&gt;
+&lt;h3 id=&#34;千尋-花ちゃん編&#34;&gt;千尋×花ちゃん編&lt;/h3&gt;
 
 &lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;ja&#34;&gt;&lt;p&gt;アニメあと何話あるんだろう。千尋が花ちゃん堕とすはなしとかやってもらいたいもんだ&lt;/p&gt;— まいしゅたーさん (@mysyutar) &lt;a href=&#34;https://twitter.com/mysyutar/status/140801077770588162&#34; data-datetime=&#34;2011-11-27T14:36:07+00:00&#34;&gt;11月 27, 2011&lt;/a&gt;&lt;/blockquote&gt;
 
@@ -751,11 +755,12 @@
 &lt;ul&gt;
 &lt;li&gt;千尋マジック&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;森田さんのエクトプラズム&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;エクトプラズムを食べる森田さん&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;エクトプラズムを食べる森田さん&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;ケンカ編:71fd138cda6e6adbf544503c26b0930f&#34;&gt;ケンカ編&lt;/h3&gt;
+&lt;h3 id=&#34;ケンカ編&#34;&gt;ケンカ編&lt;/h3&gt;
 
 &lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;ja&#34;&gt;&lt;p&gt;森田さんの最終回は美樹と千尋がケンカして仲直りする回かなぁ&lt;/p&gt;— まいしゅたーさん (@mysyutar) &lt;a href=&#34;https://twitter.com/mysyutar/status/143478397740396545&#34; data-datetime=&#34;2011-12-04T23:54:50+00:00&#34;&gt;12月 4, 2011&lt;/17:10+00:00&#34;&gt;12月 27, 2011&lt;/a&gt;&lt;/blockquote&gt;
 
@@ -770,7 +775,8 @@
 &lt;li&gt;森田さん-花ちゃん、美樹-千尋の構成&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;由美ちゃんの娘を思いやる気持ちとそこからわかる森田さんの優しさ&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;del&gt;花ちゃん家の家庭事情&lt;/del&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;雨降って地固まるなラスト&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;雨降って地固まるなラスト&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -782,13 +788,14 @@
 
 &lt;p&gt;森田さんの涙も見られて眼福。(OVA以来？)&lt;/p&gt;
 
-&lt;h2 id=&#34;心残り:71fd138cda6e6adbf544503c26b0930f&#34;&gt;心残り&lt;/h2&gt;
+&lt;h2 id=&#34;心残り&#34;&gt;心残り&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;千尋回&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;雪乃さん、美里&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;浜先生のキャスト&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;番外編:ロリ田さんは無口&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;番外編:ロリ田さんは無口&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;とはいえ、アニメ2期のDVDや単行本5巻特装版もあるため、まだまだ楽しみが続きそうですね！&lt;/p&gt;
@@ -805,7 +812,7 @@
 
 &lt;p&gt;森田さんは無口エバンジェリストになり隊隊長ですこんにちは。&lt;/p&gt;
 
-&lt;h2 id=&#34;森田さんは無口-2-第25話-クリスマスはみんなでバイト:45a447f6747f11d2d0363f7f46ae968a&#34;&gt;森田さんは無口。2 第25話「クリスマスはみんなでバイト」&lt;/h2&gt;
+&lt;h2 id=&#34;森田さんは無口-2-第25話-クリスマスはみんなでバイト&#34;&gt;森田さんは無口。2 第25話「クリスマスはみんなでバイト」&lt;/h2&gt;
 
 &lt;p&gt;原作2巻 27-33ページ&lt;/p&gt;
 
@@ -856,7 +863,7 @@
       <guid>http://mysyutar.github.io/2011/12/20/moritasan/</guid>
       <description>
 
-&lt;h2 id=&#34;森田さんは無口-2-第24話-真由は怒らない:6aafe4e0f80ba6aad92ff26f5a725fe4&#34;&gt;森田さんは無口。2 第24話「真由は怒らない？」&lt;/h2&gt;
+&lt;h2 id=&#34;森田さんは無口-2-第24話-真由は怒らない&#34;&gt;森田さんは無口。2 第24話「真由は怒らない？」&lt;/h2&gt;
 
 &lt;p&gt;原作2巻 22-25ページ&lt;/p&gt;
 
@@ -884,7 +891,7 @@
 
 &lt;p&gt;&lt;script src=&#34;http://source.pixiv.net/source/embed.js&#34; data-id=&#34;23777228_1a16cb5127dc6ea327c99012f30fe6d7&#34; data-size=&#34;medium&#34; data-border=&#34;on&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;p&gt;&lt;a href=&#34;http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=23777228&#34; target=&#34;_blank&#34;&gt;花ちゃんと二人で&lt;/a&gt; by &lt;a href=&#34;http://www.pixiv.net/member.php?id=1432163&#34; target=&#34;_blank&#34;&gt;まいしゅたー&lt;/a&gt; on &lt;a href=&#34;http://www.pixiv.net/&#34; target=&#34;_blank&#34;&gt;pixiv&lt;/a&gt;&lt;/p&gt;&lt;/noscript&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;その他:6aafe4e0f80ba6aad92ff26f5a725fe4&#34;&gt;その他&lt;/h2&gt;
+&lt;h2 id=&#34;その他&#34;&gt;その他&lt;/h2&gt;
 
 &lt;p&gt;さりげに、タイトルに名前登場は唯一2回目に。(1回目は1期1話「森田さんは無口」)&lt;/p&gt;
 

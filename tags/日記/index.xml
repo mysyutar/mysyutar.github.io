@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>日記 on yu-my-star</title>
-    <link>http://mysyutar.github.io/tags/%E6%97%A5%E8%A8%98/</link>
-    <description>Recent content in 日記 on yu-my-star</description>
+    <title>yu-my-star</title>
+    <link>http://mysyutar.github.io/tags/%E6%97%A5%E8%A8%98/index.xml</link>
+    <description>Recent content on yu-my-star</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sat, 30 May 2015 15:35:17 +0900</lastBuildDate>
     <atom:link href="http://mysyutar.github.io/tags/%E6%97%A5%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -29,15 +28,16 @@
       <guid>http://mysyutar.github.io/about/</guid>
       <description>
 
-&lt;h2 id=&#34;author:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Author&lt;/h2&gt;
+&lt;h2 id=&#34;author&#34;&gt;Author&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;@mysyutar&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;@mysyutar&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;何もやらずに気づけば10年くらい経過してるよ。よろしくね。&lt;/p&gt;
 
-&lt;h2 id=&#34;好きな作品:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;好きな作品&lt;/h2&gt;
+&lt;h2 id=&#34;好きな作品&#34;&gt;好きな作品&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;アイドルマスターディアリースターズ&lt;br /&gt;&lt;/li&gt;
@@ -70,7 +70,7 @@
 
 &lt;p&gt;以下、詳細です。&lt;/p&gt;
 
-&lt;h2 id=&#34;100-様:f1db1210f754c37b58ccf640066cf810&#34;&gt;±100℃様&lt;/h2&gt;
+&lt;h2 id=&#34;100-様&#34;&gt;±100℃様&lt;/h2&gt;
 
 &lt;p&gt;&lt;script src=&#34;http://source.pixiv.net/source/embed.js&#34; data-id=&#34;45776502_4832ce18ad918ea2f8c96ec62729dc81&#34; data-size=&#34;medium&#34; data-border=&#34;on&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;p&gt;&lt;a href=&#34;http://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=45776502&#34; target=&#34;_blank&#34;&gt;秋月涼アンソロDazzling Colors（歌姫庭園6）&lt;/a&gt; by &lt;a href=&#34;http://www.pixiv.net/member.php?id=853368&#34; target=&#34;_blank&#34;&gt;いぐな&lt;/a&gt; on &lt;a href=&#34;http://www.pixiv.net/&#34; target=&#34;_blank&#34;&gt;pixiv&lt;/a&gt;&lt;/p&gt;&lt;/noscript&gt;&lt;br /&gt;
 &lt;script src=&#34;http://source.pixiv.net/source/embed.js&#34; data-id=&#34;45805463_af757d62bfbceb1067eb66ab762d92e1&#34; data-size=&#34;medium&#34; data-border=&#34;on&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;p&gt;&lt;a href=&#34;http://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=45805463&#34; target=&#34;_blank&#34;&gt;歌姫庭園6 ゲスト情報！&lt;/a&gt; by &lt;a href=&#34;http://www.pixiv.net/member.php?id=1432163&#34; target=&#34;_blank&#34;&gt;まいしゅたー&lt;/a&gt; on &lt;a href=&#34;http://www.pixiv.net/&#34; target=&#34;_blank&#34;&gt;pixiv&lt;/a&gt;&lt;/p&gt;&lt;/noscript&gt;&lt;/p&gt;
@@ -79,7 +79,8 @@
 &lt;li&gt;9月15日：歌姫81『±100℃』&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;アイドルマスターDS&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;全年齢モノクロイラスト1ページ&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;涼さん、絵理さん、愛ちゃん、夢子ちゃん&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;涼さん、絵理さん、愛ちゃん、夢子ちゃん&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;(とらのあなの方)よろしくおねがいします！&lt;/p&gt;
@@ -94,31 +95,31 @@
       <guid>http://mysyutar.github.io/2014/08/14/diary/</guid>
       <description>
 
-&lt;h2 id=&#34;あらすじ:7b1117334ebbbd50c33a0980835993dd&#34;&gt;あらすじ&lt;/h2&gt;
+&lt;h2 id=&#34;あらすじ&#34;&gt;あらすじ&lt;/h2&gt;
 
 &lt;p&gt;C86に向けてマンガ＆イラストを寄稿した後もせっせとマンガを描いていたら、3日目中に完成までこぎつけることができました！&lt;/p&gt;
 
 &lt;p&gt;昔からの夢だったので、いそいそとDLショップへ登録を急ぎ…。&lt;/p&gt;
 
-&lt;h3 id=&#34;作品:7b1117334ebbbd50c33a0980835993dd&#34;&gt;作品&lt;/h3&gt;
+&lt;h3 id=&#34;作品&#34;&gt;作品&lt;/h3&gt;
 
 &lt;p&gt;「ウオミーの玉しか責めない本」&lt;/p&gt;
 
-&lt;h3 id=&#34;あらすじ-1:7b1117334ebbbd50c33a0980835993dd&#34;&gt;あらすじ&lt;/h3&gt;
+&lt;h3 id=&#34;あらすじ-1&#34;&gt;あらすじ&lt;/h3&gt;
 
 &lt;p&gt;天草会長と七条センパイにつかまったふたなりウオミーがひたすら玉責め玉フェラ玉舐めされまくるというかなりニッチなお話。&lt;/p&gt;
 
-&lt;h2 id=&#34;取扱いサイト:7b1117334ebbbd50c33a0980835993dd&#34;&gt;取扱いサイト&lt;/h2&gt;
+&lt;h2 id=&#34;取扱いサイト&#34;&gt;取扱いサイト&lt;/h2&gt;
 
 &lt;p&gt;DLsite.comおよびBOOTHにアップロードさせていただいております。&lt;/p&gt;
 
-&lt;h3 id=&#34;dlsite-com:7b1117334ebbbd50c33a0980835993dd&#34;&gt;DLsite.com&lt;/h3&gt;
+&lt;h3 id=&#34;dlsite-com&#34;&gt;DLsite.com&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.dlsite.com/maniax/dlaf/=/link/work/aid/yumystar/id/RJ139781.html&#34; target=&#34;_blank&#34;&gt;ウオミーの玉しか責めない本&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.dlsite.com/maniax/dlaf/=/link/work/aid/yumystar/id/RJ139781.html&#34; target=&#34;_blank&#34;&gt;&lt;img itemprop=&#34;image&#34; src=&#34;//img.dlsite.jp/modpub/images2/work/doujin/RJ140000/RJ139781_img_main.jpg&#34; alt=&#34;ウオミーの玉しか責めない本&#34; title=&#34;ウオミーの玉しか責めない本&#34; border=&#34;0&#34; class=&#34;target_type&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;booth:7b1117334ebbbd50c33a0980835993dd&#34;&gt;BOOTH&lt;/h3&gt;
+&lt;h3 id=&#34;booth&#34;&gt;BOOTH&lt;/h3&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://yu-my-star.booth.pm/items/34991&#34;&gt;ウオミーの玉しか責めない本&lt;/a&gt;&lt;/p&gt;
 
@@ -142,7 +143,7 @@
 
 &lt;p&gt;以下、宣伝です。(寄稿サークル名順)&lt;/p&gt;
 
-&lt;h2 id=&#34;アズみっくす様:379eebe9bd1c5d470bc1b40766f2bca2&#34;&gt;アズみっくす様&lt;/h2&gt;
+&lt;h2 id=&#34;アズみっくす様&#34;&gt;アズみっくす様&lt;/h2&gt;
 
 &lt;p&gt;&lt;script src=&#34;http://source.pixiv.net/source/embed.js&#34; data-id=&#34;44832172_efb9f42d59b347d664138b7a2d749dea&#34; data-size=&#34;medium&#34; data-border=&#34;on&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;p&gt;&lt;a href=&#34;http://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=44832172&#34; target=&#34;_blank&#34;&gt;四コマか……いや、何かある。これは合同誌だ！！&lt;/a&gt; by &lt;a href=&#34;http://www.pixiv.net/member.php?id=170215&#34; target=&#34;_blank&#34;&gt;アズみ＠C86・1日目ラ25b&lt;/a&gt; on &lt;a href=&#34;http://www.pixiv.net/&#34; target=&#34;_blank&#34;&gt;pixiv&lt;/a&gt;&lt;/p&gt;&lt;/noscript&gt;&lt;br /&gt;
 &lt;script src=&#34;http://source.pixiv.net/source/embed.js&#34; data-id=&#34;45133681_c7810f77aa80f7dcc6bf72f97dc3667f&#34; data-size=&#34;medium&#34; data-border=&#34;on&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;p&gt;&lt;a href=&#34;http://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=45133681&#34; target=&#34;_blank&#34;&gt;C86 ゲスト情報 サガフロ2編！&lt;/a&gt; by &lt;a href=&#34;http://www.pixiv.net/member.php?id=1432163&#34; target=&#34;_blank&#34;&gt;まいしゅたー&lt;/a&gt; on &lt;a href=&#34;http://www.pixiv.net/&#34; target=&#34;_blank&#34;&gt;pixiv&lt;/a&gt;&lt;/p&gt;&lt;/noscript&gt;&lt;/p&gt;
@@ -151,10 +152,11 @@
 &lt;li&gt;8月15日(金)：東ラ-25b『アズみっくす』&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;サガフロ2&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;全年齢モノクロイラスト1ページ&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;ジニーちゃん、プルミ、ミーティアさん&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;ジニーちゃん、プルミ、ミーティアさん&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;ねのくに様:379eebe9bd1c5d470bc1b40766f2bca2&#34;&gt;ねのくに様&lt;/h2&gt;
+&lt;h2 id=&#34;ねのくに様&#34;&gt;ねのくに様&lt;/h2&gt;
 
 &lt;p&gt;&lt;script src=&#34;http://source.pixiv.net/source/embed.js&#34; data-id=&#34;45264575_b2e3c97ad991e77ea180669e76c12c91&#34; data-size=&#34;medium&#34; data-border=&#34;on&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;p&gt;&lt;a href=&#34;http://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=45264575&#34; target=&#34;_blank&#34;&gt;（夏コミ新刊サンプル）ウオミー祭&lt;/a&gt; by &lt;a href=&#34;http://www.pixiv.net/member.php?id=1319535&#34; target=&#34;_blank&#34;&gt;毒菜＠二日目西て-03b&lt;/a&gt; on &lt;a href=&#34;http://www.pixiv.net/&#34; target=&#34;_blank&#34;&gt;pixiv&lt;/a&gt;&lt;/p&gt;&lt;/noscript&gt;&lt;br /&gt;
 &lt;script src=&#34;http://source.pixiv.net/source/embed.js&#34; data-id=&#34;45285833_bdbd557ec3d3b9cf9660f87b5b01014a&#34; data-size=&#34;medium&#34; data-border=&#34;on&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;p&gt;&lt;a href=&#34;http://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=45285833&#34; target=&#34;_blank&#34;&gt;C86 ゲスト情報 生徒会役員共編！&lt;/a&gt; by &lt;a href=&#34;http://www.pixiv.net/member.php?id=1432163&#34; target=&#34;_blank&#34;&gt;まいしゅたー&lt;/a&gt; on &lt;a href=&#34;http://www.pixiv.net/&#34; target=&#34;_blank&#34;&gt;pixiv&lt;/a&gt;&lt;/p&gt;&lt;/noscript&gt;&lt;/p&gt;
@@ -163,7 +165,8 @@
 &lt;li&gt;8月16日(土)：西て-03b『ねのくに』&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;生徒会役員共&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;全年齢モノクロマンガ8ページ&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;会長とウオミーが乳繰り合う8ページ&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;会長とウオミーが乳繰り合う8ページ&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;よろしくおねがいします！&lt;/p&gt;
@@ -178,7 +181,7 @@
       <guid>http://mysyutar.github.io/2013/10/30/moritasan/</guid>
       <description>
 
-&lt;h2 id=&#34;月間作業報告:0fc0d0861e6928c87e92c162eb03b58a&#34;&gt;月間作業報告&lt;/h2&gt;
+&lt;h2 id=&#34;月間作業報告&#34;&gt;月間作業報告&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;角川の策略にハメられた&lt;br /&gt;
@@ -188,7 +191,8 @@
 &lt;li&gt;ロストユニバースも全巻買っちゃった&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;数年ぶりに見てもキャナルが可愛かった&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;森田さんは無口の単行本が出ている事に気づいてすぐ買った&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;森田さんは無口の単行本が出ている事に気づいてすぐ買った&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;定期的に買う本があまりないため、気づいたら続巻が出てたりしてつらい。&lt;/p&gt;
@@ -207,15 +211,16 @@
       <guid>http://mysyutar.github.io/2013/09/30/diary/</guid>
       <description>
 
-&lt;h2 id=&#34;月間作業報告:5f98258918481a8ab3e527f372c6a44a&#34;&gt;月間作業報告&lt;/h2&gt;
+&lt;h2 id=&#34;月間作業報告&#34;&gt;月間作業報告&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Surface Proを買って画面に直に絵を描ける環境を構築してみた&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;ラブライブBDマラソン無事完走&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;みなみけの一挙放送を見た&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;みなみけの一挙放送を見た&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;みなみけ:5f98258918481a8ab3e527f372c6a44a&#34;&gt;みなみけ&lt;/h2&gt;
+&lt;h2 id=&#34;みなみけ&#34;&gt;みなみけ&lt;/h2&gt;
 
 &lt;p&gt;みなみけのアニメを全部見て、追ってなかった事が悔やまれた…。&lt;/p&gt;
 
@@ -262,7 +267,7 @@
 
 &lt;p&gt;あけましたが、去年と同じく振り返りから…。&lt;/p&gt;
 
-&lt;h2 id=&#34;2012年戦歴:2aca235bd86b166cf733fdaa910da338&#34;&gt;2012年戦歴&lt;/h2&gt;
+&lt;h2 id=&#34;2012年戦歴&#34;&gt;2012年戦歴&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;総計…54枚&lt;br /&gt;&lt;/li&gt;
@@ -276,7 +281,8 @@
 &lt;li&gt;スマイルプリキュア&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;夢幻街&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;サガフロンティア2&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;痕&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;痕&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -287,19 +293,21 @@
 &lt;p&gt;増えてはいるけど、白黒も多いのよね。&lt;br /&gt;
 で、白黒ももうちょい見栄えよくしたい。&lt;/p&gt;
 
-&lt;h2 id=&#34;keep:2aca235bd86b166cf733fdaa910da338&#34;&gt;Keep&lt;/h2&gt;
+&lt;h2 id=&#34;keep&#34;&gt;Keep&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;イラストアップペース維持(去年と同じ)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;イラストアップペース維持(去年と同じ)&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;problem:2aca235bd86b166cf733fdaa910da338&#34;&gt;Problem&lt;/h2&gt;
+&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;薄い本描く描く詐欺&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;薄い本描く描く詐欺&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;try:2aca235bd86b166cf733fdaa910da338&#34;&gt;Try&lt;/h2&gt;
+&lt;h2 id=&#34;try&#34;&gt;Try&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;少しソフトの使い方も学んでみる&lt;br /&gt;&lt;/li&gt;
@@ -307,7 +315,8 @@
 &lt;li&gt;今年こそ薄い本！&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;画力とか、話の構成とか、色々必要なものはあるけどひとまず完成まで突っ切るという事が一番大事だと想いました。まる&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;画力とか、話の構成とか、色々必要なものはあるけどひとまず完成まで突っ切るという事が一番大事だと想いました。まる&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -333,19 +342,20 @@
       <guid>http://mysyutar.github.io/2012/06/24/travel/</guid>
       <description>
 
-&lt;h2 id=&#34;前回までのあらすじ:27d8233a5cc308ee0122ba92449213b3&#34;&gt;前回までのあらすじ&lt;/h2&gt;
+&lt;h2 id=&#34;前回までのあらすじ&#34;&gt;前回までのあらすじ&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://mysyutar.github.com/2012/05/21/travel&#34;&gt;リアル鶴来屋を散策してきた 金沢-和倉温泉駅編&lt;/a&gt;&lt;del&gt;隆山&lt;/del&gt;和倉温泉駅までは辿りつけた！&lt;/p&gt;
 
-&lt;h2 id=&#34;参考サイト:27d8233a5cc308ee0122ba92449213b3&#34;&gt;参考サイト&lt;/h2&gt;
+&lt;h2 id=&#34;参考サイト&#34;&gt;参考サイト&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://park7.wakwak.com/%7Emtak/m/photos/kizuato.htm&#34;&gt;実地検分【痕 -きずあと-】&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www2s.biglobe.ne.jp/%7Eturugiya/kagaya.html&#34;&gt;痕　加賀屋旅館宿泊ツアー(石川県　2003年7月)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://souzou.tm.land.to/pilgrim/kizu/kizu1.htm&#34;&gt;痕の聖地を訪ねて&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://souzou.tm.land.to/pilgrim/kizu/kizu1.htm&#34;&gt;痕の聖地を訪ねて&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;和倉温泉-加賀屋:27d8233a5cc308ee0122ba92449213b3&#34;&gt;和倉温泉-加賀屋&lt;/h2&gt;
+&lt;h2 id=&#34;和倉温泉-加賀屋&#34;&gt;和倉温泉-加賀屋&lt;/h2&gt;
 
 &lt;p&gt;早速和倉温泉駅から加賀屋まで歩く。&lt;/p&gt;
 
@@ -367,9 +377,9 @@
 
 &lt;p&gt;では、チェックインする前にやはり「あのアングル」から全景を収めるしかありますまい。&lt;/p&gt;
 
-&lt;h2 id=&#34;加賀屋-全景:27d8233a5cc308ee0122ba92449213b3&#34;&gt;加賀屋-全景&lt;/h2&gt;
+&lt;h2 id=&#34;加賀屋-全景&#34;&gt;加賀屋-全景&lt;/h2&gt;
 
-&lt;h3 id=&#34;比較-左-旧版-右-2009年版:27d8233a5cc308ee0122ba92449213b3&#34;&gt;比較(左:旧版、右:2009年版)&lt;/h3&gt;
+&lt;h3 id=&#34;比較-左-旧版-右-2009年版&#34;&gt;比較(左:旧版、右:2009年版)&lt;/h3&gt;
 
 &lt;p&gt;リメイク版は建物一つになってしまっている。&lt;/p&gt;
 
@@ -392,7 +402,7 @@
 
 &lt;p&gt;&lt;img style=&#34;width: 255px; height: 340px;&#34; src=&#34;http://mysyutar.github.com/images/2012/05/21/tsurugiya9_i.jpg&#34; alt=&#34;tsurugiya9_i.jpg&#34;&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;旧版アングルの撮影の仕方:27d8233a5cc308ee0122ba92449213b3&#34;&gt;旧版アングルの撮影の仕方&lt;/h2&gt;
+&lt;h2 id=&#34;旧版アングルの撮影の仕方&#34;&gt;旧版アングルの撮影の仕方&lt;/h2&gt;
 
 &lt;p&gt;で、旧版のアングルは、行く前は「船とかに乗らないと撮れないのかな？」と思っていたのだけれど、誰でも撮影する事ができた。&lt;/p&gt;
 
@@ -433,9 +443,9 @@
 
 &lt;p&gt;では、遠路はるばる来たのでチェックイン。&lt;/p&gt;
 
-&lt;h2 id=&#34;加賀屋-ロビー:27d8233a5cc308ee0122ba92449213b3&#34;&gt;加賀屋-ロビー&lt;/h2&gt;
+&lt;h2 id=&#34;加賀屋-ロビー&#34;&gt;加賀屋-ロビー&lt;/h2&gt;
 
-&lt;h3 id=&#34;比較-2009年版:27d8233a5cc308ee0122ba92449213b3&#34;&gt;比較(2009年版)&lt;/h3&gt;
+&lt;h3 id=&#34;比較-2009年版&#34;&gt;比較(2009年版)&lt;/h3&gt;
 
 &lt;p&gt;&lt;img style=&#34;width: 260px; height: 208px;&#34; src=&#34;http://mysyutar.github.com/images/2012/05/21/tsurugiya_ent1_r.jpg&#34; alt=&#34;tsurugiya_ent1_r.jpg&#34;&gt;&lt;br /&gt;
 &lt;img style=&#34;width: 260px; height: 345px;&#34; src=&#34;http://mysyutar.github.com/images/2012/05/21/tsurugiya_ent1_i.jpg&#34; alt=&#34;tsurugiya_ent1_i.jpg&#34;&gt;&lt;/p&gt;
@@ -484,9 +494,9 @@
 
 &lt;p&gt;すごく…似ています…。&lt;/p&gt;
 
-&lt;h2 id=&#34;加賀屋-客室:27d8233a5cc308ee0122ba92449213b3&#34;&gt;加賀屋-客室&lt;/h2&gt;
+&lt;h2 id=&#34;加賀屋-客室&#34;&gt;加賀屋-客室&lt;/h2&gt;
 
-&lt;h3 id=&#34;比較-2009年版-1:27d8233a5cc308ee0122ba92449213b3&#34;&gt;比較(2009年版)&lt;/h3&gt;
+&lt;h3 id=&#34;比較-2009年版-1&#34;&gt;比較(2009年版)&lt;/h3&gt;
 
 &lt;p&gt;&lt;img style=&#34;width: 260px; height: 207px;&#34; src=&#34;http://mysyutar.github.com/images/2012/05/21/tsurugiya_room1_r.jpg&#34; alt=&#34;tsurugiya_room1_r.jpg&#34;&gt;&lt;/p&gt;
 
@@ -534,7 +544,7 @@
 &lt;p&gt;&lt;script src=&#34;http://source.pixiv.net/source/embed.js&#34; data-id=&#34;27123059_0b7fe6b47f54bad06e43e712eea6e5a0&#34; data-size=&#34;medium&#34; data-border=&#34;on&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;br /&gt;
 &lt;noscript&gt;&lt;a href=&#34;http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=27123059&#34; target=&#34;_blank&#34;&gt;ブルマセーラー服といえば柏木楓ちゃん一択でお願いします&lt;/a&gt; by &lt;a href=&#34;http://www.pixiv.net/member.php?id=1432163&#34; target=&#34;_blank&#34;&gt;まいしゅたー&lt;/a&gt; on &lt;a href=&#34;http://www.pixiv.net/&#34; target=&#34;_blank&#34;&gt;pixiv&lt;/a&gt;&lt;/noscript&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;あらすじ:cc7744004f421f73a46faf51b07b4af9&#34;&gt;あらすじ&lt;/h2&gt;
+&lt;h2 id=&#34;あらすじ&#34;&gt;あらすじ&lt;/h2&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;痕とは、1996年にLeafから発売されたリーフビジュアルノベルシリーズの第二弾で&lt;/p&gt;
@@ -548,15 +558,16 @@
 
 &lt;p&gt;ついでにヒロインが会長をやっている旅館(のモデルとなっている旅館)に泊まってきたので、その成果を以下に記します。&lt;/p&gt;
 
-&lt;h2 id=&#34;参考サイト:cc7744004f421f73a46faf51b07b4af9&#34;&gt;参考サイト&lt;/h2&gt;
+&lt;h2 id=&#34;参考サイト&#34;&gt;参考サイト&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://park7.wakwak.com/%7Emtak/m/photos/kizuato.htm&#34;&gt;実地検分【痕 -きずあと-】&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www2s.biglobe.ne.jp/%7Eturugiya/kagaya.html&#34;&gt;痕　加賀屋旅館宿泊ツアー(石川県　2003年7月)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://souzou.tm.land.to/pilgrim/kizu/kizu1.htm&#34;&gt;痕の聖地を訪ねて&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://souzou.tm.land.to/pilgrim/kizu/kizu1.htm&#34;&gt;痕の聖地を訪ねて&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;金沢駅-香林坊武家屋敷:cc7744004f421f73a46faf51b07b4af9&#34;&gt;金沢駅-香林坊武家屋敷&lt;/h2&gt;
+&lt;h2 id=&#34;金沢駅-香林坊武家屋敷&#34;&gt;金沢駅-香林坊武家屋敷&lt;/h2&gt;
 
 &lt;p&gt;手始めに金沢駅で降車。&lt;/p&gt;
 
@@ -564,7 +575,7 @@
 
 &lt;p&gt;金沢駅からバスに乗り、香林坊を目指す。&lt;/p&gt;
 
-&lt;h3 id=&#34;比較-左-旧版-右-2009年版:cc7744004f421f73a46faf51b07b4af9&#34;&gt;比較(左:旧版、右:2009年版)&lt;/h3&gt;
+&lt;h3 id=&#34;比較-左-旧版-右-2009年版&#34;&gt;比較(左:旧版、右:2009年版)&lt;/h3&gt;
 
 &lt;p&gt;旧版と新版では大きな変化もなくといったところ。いつ見ても立派な門構えだ…。&lt;/p&gt;
 
@@ -593,7 +604,7 @@
 
 &lt;p&gt;&lt;img src=&#34;http://mysyutar.github.com/images/2012/05/21/kashiwagi5_i.jpg&#34; alt=&#34;kashiwagi5_i.jpg&#34; height=&#34;50%&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;七尾駅-小丸山公園:cc7744004f421f73a46faf51b07b4af9&#34;&gt;七尾駅-小丸山公園&lt;/h2&gt;
+&lt;h2 id=&#34;七尾駅-小丸山公園&#34;&gt;七尾駅-小丸山公園&lt;/h2&gt;
 
 &lt;p&gt;武家屋敷で決定的な写真が取れないまま北上し、石川県七尾市へ。&lt;/p&gt;
 
@@ -601,7 +612,7 @@
 
 &lt;p&gt;七尾駅周辺にはかおりちゃんが襲われた公園や、楓ちゃんの制服のモデルとなった高校などがあるらしい。(ただし、公園に関しては金沢のどこかの公園という説も散見されたので、詳細は不明)&lt;/p&gt;
 
-&lt;h3 id=&#34;比較-左-旧版-右-2009年版-1:cc7744004f421f73a46faf51b07b4af9&#34;&gt;比較(左:旧版、右:2009年版)&lt;/h3&gt;
+&lt;h3 id=&#34;比較-左-旧版-右-2009年版-1&#34;&gt;比較(左:旧版、右:2009年版)&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://mysyutar.github.com/images/2012/05/21/park1_o.jpg&#34; alt=&#34;park1_o.jpg&#34; height=&#34;50%&#34; width=&#34;50%&#34;&gt;&lt;br /&gt;
 &lt;img src=&#34;http://mysyutar.github.com/images/2012/05/21/park2_r.jpg&#34; alt=&#34;park2_r.jpg&#34; height=&#34;50%&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;
@@ -630,13 +641,13 @@
 
 &lt;p&gt;セーラー服最高！&lt;/p&gt;
 
-&lt;h2 id=&#34;和倉温泉駅-和倉温泉駅:cc7744004f421f73a46faf51b07b4af9&#34;&gt;和倉温泉駅-和倉温泉駅&lt;/h2&gt;
+&lt;h2 id=&#34;和倉温泉駅-和倉温泉駅&#34;&gt;和倉温泉駅-和倉温泉駅&lt;/h2&gt;
 
 &lt;p&gt;金沢に入ってから収穫らしい収穫もないまま、ついに終点和倉温泉駅まで来てしまった。&lt;/p&gt;
 
 &lt;p&gt;しかし、この和倉温泉駅は隆山駅にそっくりであるという事は知っていたので着いた瞬間からテンションあがります。&lt;/p&gt;
 
-&lt;h3 id=&#34;比較-左-旧版-右-2009年版-2:cc7744004f421f73a46faf51b07b4af9&#34;&gt;比較(左:旧版、右:2009年版)&lt;/h3&gt;
+&lt;h3 id=&#34;比較-左-旧版-右-2009年版-2&#34;&gt;比較(左:旧版、右:2009年版)&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://mysyutar.github.com/images/2012/05/21/takayama1_o.jpg&#34; alt=&#34;takayama1_o.jpg&#34; height=&#34;50%&#34; width=&#34;50%&#34;&gt;&lt;br /&gt;
 &lt;img src=&#34;http://mysyutar.github.com/images/2012/05/21/takayama1_r.jpg&#34; alt=&#34;takayama1_r.jpg&#34; height=&#34;50%&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;
@@ -668,15 +679,15 @@
       <guid>http://mysyutar.github.io/2012/04/23/mitsudomoe/</guid>
       <description>
 
-&lt;h2 id=&#34;あらすじ:9d64cfe463d0c1f57951c359580ea0d5&#34;&gt;あらすじ&lt;/h2&gt;
+&lt;h2 id=&#34;あらすじ&#34;&gt;あらすじ&lt;/h2&gt;
 
 &lt;p&gt;最近絵を全然描けていないため、なんとか描く機会を増やそうとしたのがきっかけ。&lt;/p&gt;
 
-&lt;h2 id=&#34;実際に描いてみる:9d64cfe463d0c1f57951c359580ea0d5&#34;&gt;実際に描いてみる&lt;/h2&gt;
+&lt;h2 id=&#34;実際に描いてみる&#34;&gt;実際に描いてみる&lt;/h2&gt;
 
 &lt;p&gt;今回使ったのはibis Paint Xというibis Paintの無料版。&lt;/p&gt;
 
-&lt;h4 id=&#34;下描き-iphone:9d64cfe463d0c1f57951c359580ea0d5&#34;&gt;下描き(iPhone)&lt;/h4&gt;
+&lt;h4 id=&#34;下描き-iphone&#34;&gt;下描き(iPhone)&lt;/h4&gt;
 
 &lt;p&gt;右親指で描く。&lt;/p&gt;
 
@@ -696,7 +707,7 @@
 
 &lt;p&gt;…非常に疲れた。&lt;/p&gt;
 
-&lt;h4 id=&#34;下描き-pc:9d64cfe463d0c1f57951c359580ea0d5&#34;&gt;下描き(PC)&lt;/h4&gt;
+&lt;h4 id=&#34;下描き-pc&#34;&gt;下描き(PC)&lt;/h4&gt;
 
 &lt;p&gt;帰宅し、さっきの絵をメール送信。&lt;/p&gt;
 
@@ -706,7 +717,7 @@
 
 &lt;p&gt;&lt;a href=&#34;http://twitpic.com/9d4sqg&#34; title=&#34;Share photos on twitter with Twitpic&#34;&gt;&lt;img src=&#34;http://twitpic.com/show/thumb/9d4sqg.jpg&#34; alt=&#34;Share photos on twitter with Twitpic&#34; height=&#34;150&#34; width=&#34;150&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h4 id=&#34;清書-pc:9d64cfe463d0c1f57951c359580ea0d5&#34;&gt;清書(PC)&lt;/h4&gt;
+&lt;h4 id=&#34;清書-pc&#34;&gt;清書(PC)&lt;/h4&gt;
 
 &lt;p&gt;さらに進める。&lt;/p&gt;
 
@@ -714,7 +725,7 @@
 
 &lt;p&gt;&lt;script src=&#34;http://source.pixiv.net/source/embed.js&#34; data-id=&#34;26585325_21eb411912b85eefe28b0ae46c62ccf0&#34; data-size=&#34;medium&#34; data-border=&#34;on&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;p&gt;&lt;a href=&#34;http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=26585325&#34; target=&#34;_blank&#34;&gt;中学生剣道少女 佐藤絵理&lt;/a&gt; by &lt;a href=&#34;http://www.pixiv.net/member.php?id=1432163&#34; target=&#34;_blank&#34;&gt;まいしゅたー&lt;/a&gt; on &lt;a href=&#34;http://www.pixiv.net/&#34; target=&#34;_blank&#34;&gt;pixiv&lt;/a&gt;&lt;/p&gt;&lt;/noscript&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;自分の中のまとめ:9d64cfe463d0c1f57951c359580ea0d5&#34;&gt;自分の中のまとめ&lt;/h2&gt;
+&lt;h2 id=&#34;自分の中のまとめ&#34;&gt;自分の中のまとめ&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;iPhoneで下描きはある程度有用である&lt;br /&gt;&lt;/li&gt;
@@ -724,7 +735,8 @@
 &lt;ul&gt;
 &lt;li&gt;描きやすい(ibis Paintはかなり描きやすいとは思うが)&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;PCとのやり取りが楽&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;等々…&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;等々…&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -744,14 +756,15 @@
 
 &lt;p&gt;あけてしまいましたが、2011年の振り返りを…。&lt;/p&gt;
 
-&lt;h2 id=&#34;2011年戦歴:010cf567aec4b50c3bfb4067147fe79b&#34;&gt;2011年戦歴&lt;/h2&gt;
+&lt;h2 id=&#34;2011年戦歴&#34;&gt;2011年戦歴&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;総計…37枚&lt;br /&gt;
 
 &lt;ul&gt;
 &lt;li&gt;みつどもえ…26枚&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;森田さんは無口…11枚&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;森田さんは無口…11枚&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -759,25 +772,28 @@
 
 &lt;p&gt;みつどもえにはじまり森田さんは無口で終わった2011年。&lt;/p&gt;
 
-&lt;h3 id=&#34;keep:010cf567aec4b50c3bfb4067147fe79b&#34;&gt;Keep&lt;/h3&gt;
+&lt;h3 id=&#34;keep&#34;&gt;Keep&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;イラストアップペース維持&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;イラストアップペース維持&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;problem:010cf567aec4b50c3bfb4067147fe79b&#34;&gt;Problem&lt;/h3&gt;
+&lt;h3 id=&#34;problem&#34;&gt;Problem&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;構図似たり寄ったり&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;薄い本描く描く詐欺&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;薄い本描く描く詐欺&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;try:010cf567aec4b50c3bfb4067147fe79b&#34;&gt;Try&lt;/h3&gt;
+&lt;h3 id=&#34;try&#34;&gt;Try&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;「森田さんは無口 イラスト」Google検索で1ページ目に！&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;いろんな構図とか絡みとか&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;薄い本デビュー&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;薄い本デビュー&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;薄い本は昔から描く描く詐欺なのでなんとか一本完成させてみたい！&lt;/p&gt;

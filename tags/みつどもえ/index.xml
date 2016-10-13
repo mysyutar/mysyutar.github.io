@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>みつどもえ on yu-my-star</title>
-    <link>http://mysyutar.github.io/tags/%E3%81%BF%E3%81%A4%E3%81%A9%E3%82%82%E3%81%88/</link>
-    <description>Recent content in みつどもえ on yu-my-star</description>
+    <title>yu-my-star</title>
+    <link>http://mysyutar.github.io/tags/%E3%81%BF%E3%81%A4%E3%81%A9%E3%82%82%E3%81%88/index.xml</link>
+    <description>Recent content on yu-my-star</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Mon, 29 Jul 2013 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://mysyutar.github.io/tags/%E3%81%BF%E3%81%A4%E3%81%A9%E3%82%82%E3%81%88/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -17,7 +16,7 @@
       <guid>http://mysyutar.github.io/2013/07/29/mitsudomoe/</guid>
       <description>
 
-&lt;h2 id=&#34;イラスト:3625dfd14e2bf86af4c420f2e67b99a3&#34;&gt;イラスト&lt;/h2&gt;
+&lt;h2 id=&#34;イラスト&#34;&gt;イラスト&lt;/h2&gt;
 
 &lt;p&gt;&lt;script src=&#34;http://source.pixiv.net/source/embed.js&#34; data-id=&#34;37406301_f46ef5b826e95a524c330d66909ac909&#34; data-size=&#34;medium&#34; data-border=&#34;on&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;noscript&gt;&lt;p&gt;&lt;a href=&#34;http://www.pixiv.net/member_illust.php?mode=medium&amp;amp;illust_id=37406301&#34; target=&#34;_blank&#34;&gt;松岡さん洗浄中&lt;/a&gt; by &lt;a href=&#34;http://www.pixiv.net/member.php?id=1432163&#34; target=&#34;_blank&#34;&gt;まいしゅたー&lt;/a&gt; on &lt;a href=&#34;http://www.pixiv.net/&#34; target=&#34;_blank&#34;&gt;pixiv&lt;/a&gt;&lt;/p&gt;&lt;/noscript&gt;&lt;/p&gt;
 
@@ -39,18 +38,19 @@
       <guid>http://mysyutar.github.io/2013/05/21/mitsudomoe/</guid>
       <description>
 
-&lt;h2 id=&#34;みつどもえ-244卵性-風邪のシレン:0f626ea9475110263d747062afa5f0f7&#34;&gt;みつどもえ 244卵性「風邪のシレン」&lt;/h2&gt;
+&lt;h2 id=&#34;みつどもえ-244卵性-風邪のシレン&#34;&gt;みつどもえ 244卵性「風邪のシレン」&lt;/h2&gt;
 
-&lt;h3 id=&#34;表紙:0f626ea9475110263d747062afa5f0f7&#34;&gt;表紙&lt;/h3&gt;
+&lt;h3 id=&#34;表紙&#34;&gt;表紙&lt;/h3&gt;
 
 &lt;p&gt;みつごが風邪でダウン。みっちゃんはパンダのパジャマ気に入ってる？&lt;/p&gt;
 
-&lt;h3 id=&#34;内容:0f626ea9475110263d747062afa5f0f7&#34;&gt;内容&lt;/h3&gt;
+&lt;h3 id=&#34;内容&#34;&gt;内容&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;みっちゃんは鼻汁まみれ&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;ふたばは喉痛でげっそり&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;三女さんはきれいなひとは化&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;三女さんはきれいなひとは化&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;三人とも沈没。しかし、三女さんがイケイケすぎる。&lt;/p&gt;
@@ -81,13 +81,13 @@
       <guid>http://mysyutar.github.io/2013/04/11/mitsudomoe/</guid>
       <description>
 
-&lt;h2 id=&#34;みつどもえ-243卵性-チョコレート霊魂:1e97bfd56c8b2dbbb427affedd220877&#34;&gt;みつどもえ 243卵性「チョコレート霊魂」&lt;/h2&gt;
+&lt;h2 id=&#34;みつどもえ-243卵性-チョコレート霊魂&#34;&gt;みつどもえ 243卵性「チョコレート霊魂」&lt;/h2&gt;
 
-&lt;h3 id=&#34;表紙:1e97bfd56c8b2dbbb427affedd220877&#34;&gt;表紙&lt;/h3&gt;
+&lt;h3 id=&#34;表紙&#34;&gt;表紙&lt;/h3&gt;
 
 &lt;p&gt;咲子をチョココーティングしたい。&lt;/p&gt;
 
-&lt;h3 id=&#34;内容:1e97bfd56c8b2dbbb427affedd220877&#34;&gt;内容&lt;/h3&gt;
+&lt;h3 id=&#34;内容&#34;&gt;内容&lt;/h3&gt;
 
 &lt;p&gt;決戦！バレンタインデーイブ！&lt;/p&gt;
 
@@ -129,15 +129,15 @@
       <guid>http://mysyutar.github.io/2013/04/07/mitsudomoe/</guid>
       <description>
 
-&lt;h2 id=&#34;みつどもえ-242卵性-シュガー-レス:c8cf8123d068af4770643e5fdcc0ed59&#34;&gt;みつどもえ 242卵性「シュガー&amp;amp;レス」&lt;/h2&gt;
+&lt;h2 id=&#34;みつどもえ-242卵性-シュガー-レス&#34;&gt;みつどもえ 242卵性「シュガー&amp;amp;レス」&lt;/h2&gt;
 
-&lt;h3 id=&#34;表紙:c8cf8123d068af4770643e5fdcc0ed59&#34;&gt;表紙&lt;/h3&gt;
+&lt;h3 id=&#34;表紙&#34;&gt;表紙&lt;/h3&gt;
 
 &lt;p&gt;和美のそこはかとないエロス…。&lt;/p&gt;
 
 &lt;p&gt;ノーブラで息子と買い物とかはじまりすぎ。&lt;/p&gt;
 
-&lt;h3 id=&#34;内容:c8cf8123d068af4770643e5fdcc0ed59&#34;&gt;内容&lt;/h3&gt;
+&lt;h3 id=&#34;内容&#34;&gt;内容&lt;/h3&gt;
 
 &lt;p&gt;買い物帰りの千葉氏一家。&lt;/p&gt;
 
@@ -171,15 +171,15 @@
       <guid>http://mysyutar.github.io/2013/03/31/mitsudomoe/</guid>
       <description>
 
-&lt;h2 id=&#34;みつどもえ-241卵性-愛する人の名前を一気に:a777e7e98c5e58bdd2401e67867b5921&#34;&gt;みつどもえ 241卵性「愛する人の名前を一気に」&lt;/h2&gt;
+&lt;h2 id=&#34;みつどもえ-241卵性-愛する人の名前を一気に&#34;&gt;みつどもえ 241卵性「愛する人の名前を一気に」&lt;/h2&gt;
 
-&lt;h3 id=&#34;表紙:a777e7e98c5e58bdd2401e67867b5921&#34;&gt;表紙&lt;/h3&gt;
+&lt;h3 id=&#34;表紙&#34;&gt;表紙&lt;/h3&gt;
 
 &lt;p&gt;かまくら！雪だるま！&lt;/p&gt;
 
 &lt;p&gt;雪だるまが何気に特徴をとらえている。(おそらく)ふたばの芸術センスは何気に高い。&lt;/p&gt;
 
-&lt;h3 id=&#34;内容:a777e7e98c5e58bdd2401e67867b5921&#34;&gt;内容&lt;/h3&gt;
+&lt;h3 id=&#34;内容&#34;&gt;内容&lt;/h3&gt;
 
 &lt;p&gt;宮下vs三女さんの話…だけど、一コマ目からいきなり主張がはげしい眉毛のおっぱい…。&lt;/p&gt;
 
@@ -197,7 +197,7 @@
 
 &lt;p&gt;ショックを受けたチクビは逃げてしまうが…。&lt;/p&gt;
 
-&lt;h2 id=&#34;結論:a777e7e98c5e58bdd2401e67867b5921&#34;&gt;結論&lt;/h2&gt;
+&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
 
 &lt;p&gt;宮下チクビ、小学6年生&lt;/p&gt;
 </description>
@@ -211,9 +211,9 @@
       <guid>http://mysyutar.github.io/2013/02/25/mitsudomoe/</guid>
       <description>
 
-&lt;h2 id=&#34;みつどもえ-240卵性-ジュエルベッド:918089e476de5d9331cc17c97805c4a2&#34;&gt;みつどもえ 240卵性「ジュエルベッド」&lt;/h2&gt;
+&lt;h2 id=&#34;みつどもえ-240卵性-ジュエルベッド&#34;&gt;みつどもえ 240卵性「ジュエルベッド」&lt;/h2&gt;
 
-&lt;h3 id=&#34;表紙:918089e476de5d9331cc17c97805c4a2&#34;&gt;表紙&lt;/h3&gt;
+&lt;h3 id=&#34;表紙&#34;&gt;表紙&lt;/h3&gt;
 
 &lt;p&gt;雌豚パンダ！&lt;/p&gt;
 
@@ -221,7 +221,7 @@
 
 &lt;p&gt;変なパジャマ買うもんだなぁ。みっちゃんそういうところあるよね。&lt;/p&gt;
 
-&lt;h3 id=&#34;内容:918089e476de5d9331cc17c97805c4a2&#34;&gt;内容&lt;/h3&gt;
+&lt;h3 id=&#34;内容&#34;&gt;内容&lt;/h3&gt;
 
 &lt;p&gt;夜、床について即ムシャしようとしてたみっちゃんを三女さんが監視。&lt;/p&gt;
 
@@ -249,11 +249,11 @@
       <guid>http://mysyutar.github.io/2013/02/02/mitsudomoe/</guid>
       <description>
 
-&lt;h2 id=&#34;みつどもえ-239卵性-サンタが息巻いてやってくる:9fd3c50dbd7139a808c757a3b7877dde&#34;&gt;みつどもえ 239卵性「サンタが息巻いてやってくる」&lt;/h2&gt;
+&lt;h2 id=&#34;みつどもえ-239卵性-サンタが息巻いてやってくる&#34;&gt;みつどもえ 239卵性「サンタが息巻いてやってくる」&lt;/h2&gt;
 
 &lt;p&gt;いつのだよ！　ってレベルですが。&lt;/p&gt;
 
-&lt;h3 id=&#34;表紙:9fd3c50dbd7139a808c757a3b7877dde&#34;&gt;表紙&lt;/h3&gt;
+&lt;h3 id=&#34;表紙&#34;&gt;表紙&lt;/h3&gt;
 
 &lt;p&gt;ふたばのおっぱい食べたい！&lt;/p&gt;
 
@@ -265,7 +265,7 @@
 
 &lt;p&gt;誘ってるよね…。&lt;/p&gt;
 
-&lt;h3 id=&#34;内容:9fd3c50dbd7139a808c757a3b7877dde&#34;&gt;内容&lt;/h3&gt;
+&lt;h3 id=&#34;内容&#34;&gt;内容&lt;/h3&gt;
 
 &lt;p&gt;わるい魔女が懲らしめられる話。&lt;/p&gt;
 
@@ -301,15 +301,15 @@
 
 &lt;p&gt;みつどもえ 238卵性「ゴーストバストアーズ」しんちゃんのふたばがこんなに可愛いわけがない&lt;/p&gt;
 
-&lt;h2 id=&#34;238卵性-ゴーストバストアーズ:d215cec2ed678ba57f1e17826e20b083&#34;&gt;238卵性「ゴーストバストアーズ」&lt;/h2&gt;
+&lt;h2 id=&#34;238卵性-ゴーストバストアーズ&#34;&gt;238卵性「ゴーストバストアーズ」&lt;/h2&gt;
 
-&lt;h3 id=&#34;表紙:d215cec2ed678ba57f1e17826e20b083&#34;&gt;表紙&lt;/h3&gt;
+&lt;h3 id=&#34;表紙&#34;&gt;表紙&lt;/h3&gt;
 
 &lt;p&gt;寝巻き髪ボサボサふたば。&lt;/p&gt;
 
 &lt;p&gt;今回ふたばがかわいすぎて生きるのがつらい…なんなんだろう。露出的にはいつもより抑えられてるはずなのに。&lt;/p&gt;
 
-&lt;h3 id=&#34;本編:d215cec2ed678ba57f1e17826e20b083&#34;&gt;本編&lt;/h3&gt;
+&lt;h3 id=&#34;本編&#34;&gt;本編&lt;/h3&gt;
 
 &lt;p&gt;287卵性の続きのお話。みんなで松岡さんをハメようとして三女さんがハメられていた頃、丸井家では…。&lt;/p&gt;
 
@@ -324,7 +324,8 @@
 &lt;li&gt;大人な三女さん&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;キレイな千葉氏&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;少女宮下&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;目つき悪い吉岡さん(男かもしれない)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;目つき悪い吉岡さん(男かもしれない)&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;おばけのせいで皆が変えられてしまったと思い込みガチ泣きするふたば。&lt;/p&gt;
@@ -357,9 +358,9 @@
       <guid>http://mysyutar.github.io/2012/11/27/mitsudomoe/</guid>
       <description>
 
-&lt;h2 id=&#34;237卵性-ナイトメアー-ビフォア-アナザー:946d64aca9539aa6fbaba9482d1a9ef3&#34;&gt;237卵性「ナイトメアー・ビフォア・アナザー」&lt;/h2&gt;
+&lt;h2 id=&#34;237卵性-ナイトメアー-ビフォア-アナザー&#34;&gt;237卵性「ナイトメアー・ビフォア・アナザー」&lt;/h2&gt;
 
-&lt;h3 id=&#34;表紙:946d64aca9539aa6fbaba9482d1a9ef3&#34;&gt;表紙&lt;/h3&gt;
+&lt;h3 id=&#34;表紙&#34;&gt;表紙&lt;/h3&gt;
 
 &lt;p&gt;ハロウィン仕様のみつご+吉岡さん…だと…。集合絵的な扉で単独で出演するのはけっこう珍しい気が。&lt;/p&gt;
 
@@ -371,7 +372,7 @@
 
 &lt;p&gt;そして全身包帯の三女さんにそこはかとないエロス…。もっと近づいて見たい。&lt;/p&gt;
 
-&lt;h3 id=&#34;本編:946d64aca9539aa6fbaba9482d1a9ef3&#34;&gt;本編&lt;/h3&gt;
+&lt;h3 id=&#34;本編&#34;&gt;本編&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;「松岡さんが今日退院するって…」&lt;/p&gt;
@@ -415,7 +416,7 @@
 
 &lt;p&gt;次号くらいで松岡さんと吉岡さんのイベント発動させないと、取り戻せないよ！&lt;/p&gt;
 
-&lt;h2 id=&#34;おまけ:946d64aca9539aa6fbaba9482d1a9ef3&#34;&gt;おまけ&lt;/h2&gt;
+&lt;h2 id=&#34;おまけ&#34;&gt;おまけ&lt;/h2&gt;
 
 &lt;p&gt;単行本派だったので、最近初めて枠外の登場人物紹介をまじまじと見たのだけど、地味に面白い&amp;amp;ひどい。&lt;/p&gt;
 
@@ -435,15 +436,15 @@
       <guid>http://mysyutar.github.io/2012/11/12/mitsudomoe/</guid>
       <description>
 
-&lt;h2 id=&#34;236卵性-最終実況計画:0fedd92199b0605bc3ca7df90cfcdd4b&#34;&gt;236卵性「最終実況計画」&lt;/h2&gt;
+&lt;h2 id=&#34;236卵性-最終実況計画&#34;&gt;236卵性「最終実況計画」&lt;/h2&gt;
 
-&lt;h3 id=&#34;表紙:0fedd92199b0605bc3ca7df90cfcdd4b&#34;&gt;表紙&lt;/h3&gt;
+&lt;h3 id=&#34;表紙&#34;&gt;表紙&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;緊縛三女さん&lt;/strong&gt; …！&lt;/p&gt;
 
 &lt;p&gt;もっときつめにしないと除霊できないって住職さんが言ってた！&lt;/p&gt;
 
-&lt;h3 id=&#34;本編:0fedd92199b0605bc3ca7df90cfcdd4b&#34;&gt;本編&lt;/h3&gt;
+&lt;h3 id=&#34;本編&#34;&gt;本編&lt;/h3&gt;
 
 &lt;p&gt;ボニョボニョとした実況…していたのは放送委員になってた三女さん。&lt;/p&gt;
 
@@ -491,9 +492,9 @@
       <guid>http://mysyutar.github.io/2012/10/22/mitsudomoe/</guid>
       <description>
 
-&lt;h2 id=&#34;235卵性-ハムナプタラ-純白のピラミッド:4f4f982b3b8e9492d614c4cd2696e6a4&#34;&gt;235卵性「ハムナプタラ／純白のピラミッド」&lt;/h2&gt;
+&lt;h2 id=&#34;235卵性-ハムナプタラ-純白のピラミッド&#34;&gt;235卵性「ハムナプタラ／純白のピラミッド」&lt;/h2&gt;
 
-&lt;h3 id=&#34;表紙:4f4f982b3b8e9492d614c4cd2696e6a4&#34;&gt;表紙&lt;/h3&gt;
+&lt;h3 id=&#34;表紙&#34;&gt;表紙&lt;/h3&gt;
 
 &lt;p&gt;表紙(カラー)で丸井三姉妹とチーム杉崎の騎馬！&lt;/p&gt;
 
@@ -507,7 +508,7 @@
 
 &lt;p&gt;多分いちばんはじめにこのシチュを見たのはファイアーエムブレムのチキだったような気がする。&lt;/p&gt;
 
-&lt;h3 id=&#34;本編:4f4f982b3b8e9492d614c4cd2696e6a4&#34;&gt;本編&lt;/h3&gt;
+&lt;h3 id=&#34;本編&#34;&gt;本編&lt;/h3&gt;
 
 &lt;p&gt;本編は、太鼓持ちくんが組体操の主役に抜擢されるお話。&lt;/p&gt;
 
@@ -517,7 +518,7 @@
 
 &lt;p&gt;結局、太鼓持ちくんはみっちゃんのブルマで心が折れてあきらめたのかな？&lt;/p&gt;
 
-&lt;h2 id=&#34;その他:4f4f982b3b8e9492d614c4cd2696e6a4&#34;&gt;その他&lt;/h2&gt;
+&lt;h2 id=&#34;その他&#34;&gt;その他&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;最後のページでふたばが有言実行&lt;br /&gt;&lt;/li&gt;
@@ -534,7 +535,7 @@
       <guid>http://mysyutar.github.io/2012/09/26/mitsudomoe/</guid>
       <description>
 
-&lt;h2 id=&#34;234卵性-胸を描くよ:bc61a2a38b33abf8dc60a413e99ff190&#34;&gt;234卵性「胸を描くよ」&lt;/h2&gt;
+&lt;h2 id=&#34;234卵性-胸を描くよ&#34;&gt;234卵性「胸を描くよ」&lt;/h2&gt;
 
 &lt;p&gt;前回の続き？　授業後の着替えシーンから。&lt;/p&gt;
 
@@ -568,7 +569,7 @@
       <guid>http://mysyutar.github.io/2012/09/24/mitsudomoe/</guid>
       <description>
 
-&lt;h2 id=&#34;233卵性-瞳をあけて:e744df1ae348ad4d8eddbf07431a57c6&#34;&gt;233卵性「瞳をあけて」&lt;/h2&gt;
+&lt;h2 id=&#34;233卵性-瞳をあけて&#34;&gt;233卵性「瞳をあけて」&lt;/h2&gt;
 
 &lt;p&gt;三女さんの成長を生暖かく見守る話。&lt;/p&gt;
 
@@ -582,11 +583,11 @@
 
 &lt;p&gt;吉岡さん服のまま…体育見学？　はっ！　まさか… &lt;strong&gt;女の子のh&lt;/strong&gt; げほっげほっ！&lt;/p&gt;
 
-&lt;h2 id=&#34;結論:e744df1ae348ad4d8eddbf07431a57c6&#34;&gt;結論&lt;/h2&gt;
+&lt;h2 id=&#34;結論&#34;&gt;結論&lt;/h2&gt;
 
 &lt;p&gt;水中でも三女さんはかわいい&lt;/p&gt;
 
-&lt;h2 id=&#34;ところで:e744df1ae348ad4d8eddbf07431a57c6&#34;&gt;ところで…&lt;/h2&gt;
+&lt;h2 id=&#34;ところで&#34;&gt;ところで…&lt;/h2&gt;
 
 &lt;p&gt;この回、みんな全体的におっぱい大きめに描かれていた？&lt;/p&gt;
 
@@ -608,7 +609,7 @@
 
 &lt;p&gt;以下、見所のメモ。&lt;/p&gt;
 
-&lt;h2 id=&#34;212卵性-混入days:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;212卵性「混入DAYS」&lt;/h2&gt;
+&lt;h2 id=&#34;212卵性-混入days&#34;&gt;212卵性「混入DAYS」&lt;/h2&gt;
 
 &lt;p&gt;オールカラー話。せっかくのカラーなのに(カラーだからこそ？)鼻血と涙と毒の話。&lt;/p&gt;
 
@@ -616,13 +617,13 @@
 
 &lt;p&gt;ラストは伊藤詩織の毒攻撃。結局みっちゃんは食べられたんだろうか。&lt;/p&gt;
 
-&lt;h2 id=&#34;213卵性-食卓のお肉が来るまで:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;213卵性「食卓のお肉が来るまで」&lt;/h2&gt;
+&lt;h2 id=&#34;213卵性-食卓のお肉が来るまで&#34;&gt;213卵性「食卓のお肉が来るまで」&lt;/h2&gt;
 
 &lt;p&gt;表紙…ふたばの宮下フェイスがなんともいえず。&lt;/p&gt;
 
 &lt;p&gt;トイレで闇鍋プレイとかいきなり上級者！&lt;/p&gt;
 
-&lt;h2 id=&#34;214卵性-メイド-イン-ブラック:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;214卵性「メイド・イン・ブラック」&lt;/h2&gt;
+&lt;h2 id=&#34;214卵性-メイド-イン-ブラック&#34;&gt;214卵性「メイド・イン・ブラック」&lt;/h2&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;あと1回…あと1回やればレッドが出る気がする…すぐ返すからぁ…はぁ…はぁ…&lt;/p&gt;
@@ -632,7 +633,7 @@
 
 &lt;p&gt;妹がぶっ壊れ系の時は地味にお姉さんするふたばがかわいい。…おつむが足りていないところも含めてね。&lt;/p&gt;
 
-&lt;h2 id=&#34;215卵性-サンタが玄関先にやってくる:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;215卵性「サンタが玄関先にやってくる」&lt;/h2&gt;
+&lt;h2 id=&#34;215卵性-サンタが玄関先にやってくる&#34;&gt;215卵性「サンタが玄関先にやってくる」&lt;/h2&gt;
 
 &lt;p&gt;佐藤家の前でクリスマスパーティをするSSS隊。しかしプレゼントの話がいまいち噛み合わない三人。&lt;/p&gt;
 
@@ -654,7 +655,7 @@
 
 &lt;p&gt;家庭事情が…。&lt;/p&gt;
 
-&lt;h2 id=&#34;216卵性-なんと双六:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;216卵性「なんと双六」&lt;/h2&gt;
+&lt;h2 id=&#34;216卵性-なんと双六&#34;&gt;216卵性「なんと双六」&lt;/h2&gt;
 
 &lt;p&gt;しんちゃんハーレム状態…！&lt;/p&gt;
 
@@ -664,13 +665,13 @@
 
 &lt;p&gt;ところで、JRAのパンツって実在するんだろうか。&lt;/p&gt;
 
-&lt;h2 id=&#34;217卵性-冬のファンタg:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;217卵性「冬のファンタG」&lt;/h2&gt;
+&lt;h2 id=&#34;217卵性-冬のファンタg&#34;&gt;217卵性「冬のファンタG」&lt;/h2&gt;
 
 &lt;p&gt;また三女さんがおかしくなるお話。三女さんガチレン絡むと脆すぎてかわいい。&lt;/p&gt;
 
 &lt;p&gt;ガチレンを殺めてから、悪夢を見るようになった三女さん。最終的にやべっちも殺めそうになってたけどガチレンに意識向きすぎてて全然気づいてないの。&lt;/p&gt;
 
-&lt;h2 id=&#34;218卵性-ダウジングヒーロー:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;218卵性「ダウジングヒーロー」&lt;/h2&gt;
+&lt;h2 id=&#34;218卵性-ダウジングヒーロー&#34;&gt;218卵性「ダウジングヒーロー」&lt;/h2&gt;
 
 &lt;p&gt;12巻初の松岡さん回キタ。&lt;/p&gt;
 
@@ -688,7 +689,7 @@
 
 &lt;p&gt;男子もがっつりスカートの中覗こうとしてるし、黙ってれば松岡さんってかなり美少女なんだろうな。&lt;/p&gt;
 
-&lt;h2 id=&#34;219卵性-極上女子会:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;219卵性「極上女子会」&lt;/h2&gt;
+&lt;h2 id=&#34;219卵性-極上女子会&#34;&gt;219卵性「極上女子会」&lt;/h2&gt;
 
 &lt;p&gt;吉岡さんちで女子力を競う杉ちゃんと宮下。&lt;/p&gt;
 
@@ -700,7 +701,7 @@
 
 &lt;p&gt;杉Styleも宮Styleもどっちも渋い顔で着こなしてる吉岡さん。杉Styleは普通に似合ってるように見えたんだけど何が気に入らないのか…。&lt;/p&gt;
 
-&lt;h2 id=&#34;220卵性-飼い猫オーバーラン:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;220卵性「飼い猫オーバーラン」&lt;/h2&gt;
+&lt;h2 id=&#34;220卵性-飼い猫オーバーラン&#34;&gt;220卵性「飼い猫オーバーラン」&lt;/h2&gt;
 
 &lt;p&gt;みっちゃんマジ雌猫！&lt;/p&gt;
 
@@ -708,7 +709,7 @@
 
 &lt;p&gt;最後は雌豚堕ち。&lt;/p&gt;
 
-&lt;h2 id=&#34;221卵性-ミュージックアザーズ:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;221卵性「ミュージックアザーズ」&lt;/h2&gt;
+&lt;h2 id=&#34;221卵性-ミュージックアザーズ&#34;&gt;221卵性「ミュージックアザーズ」&lt;/h2&gt;
 
 &lt;p&gt;三女さんと松岡さんの距離が縮まる回きた…！ &lt;strong&gt;なんやかんやあって&lt;/strong&gt; 心霊CDを録音しようとFトンネル(心霊スポット)に乗り込む三女さんと松岡さん。&lt;/p&gt;
 
@@ -724,7 +725,7 @@
 
 &lt;p&gt;…の看板とハート型サングラスとファー…。たぶん松岡さんのチョイスなんだろうけど、どういうことなの…。&lt;/p&gt;
 
-&lt;h2 id=&#34;222卵性-ふたばのアトリエ:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;222卵性「ふたばのアトリエ」&lt;/h2&gt;
+&lt;h2 id=&#34;222卵性-ふたばのアトリエ&#34;&gt;222卵性「ふたばのアトリエ」&lt;/h2&gt;
 
 &lt;p&gt;悩めるふたばの巻。&lt;/p&gt;
 
@@ -738,7 +739,7 @@
 
 &lt;p&gt;最後は過去を断ち切り、ふたば復活。しかしその代償はあまりにも大きかった…。&lt;/p&gt;
 
-&lt;h2 id=&#34;223卵性-ケータイが鳴らなくて:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;223卵性「ケータイが鳴らなくて」&lt;/h2&gt;
+&lt;h2 id=&#34;223卵性-ケータイが鳴らなくて&#34;&gt;223卵性「ケータイが鳴らなくて」&lt;/h2&gt;
 
 &lt;p&gt;ゆきちゃん携帯買うの巻。&lt;/p&gt;
 
@@ -747,12 +748,13 @@
 &lt;ul&gt;
 &lt;li&gt;杉ちゃん-宮下&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;杉ちゃん-松岡&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;宮下-松岡&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;宮下-松岡&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;あんまり、ツーショットでいるところは想像できないぞ。なに話すんだ。一応、杉ちゃん-松岡はホワイトデー回で(やむなく)一緒になってたか。&lt;/p&gt;
 
-&lt;h2 id=&#34;224卵性-正解はひとつ-じゃないんだからねっ:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;224卵性「正解はひとつ！じゃないんだからねっ！！」&lt;/h2&gt;
+&lt;h2 id=&#34;224卵性-正解はひとつ-じゃないんだからねっ&#34;&gt;224卵性「正解はひとつ！じゃないんだからねっ！！」&lt;/h2&gt;
 
 &lt;p&gt;バレンタインデーのチョコを作る家庭的なおがちん。…しんちゃんの顔型チョコというのを覗けば。&lt;/p&gt;
 
@@ -760,26 +762,29 @@
 
 &lt;p&gt;さすがのおがちんもパンツはかないのは悪いことだと認識している様子。今日もこの町は平和であった。&lt;/p&gt;
 
-&lt;h2 id=&#34;225卵性-みつばナンバーワン:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;225卵性「みつばナンバーワン！！」&lt;/h2&gt;
+&lt;h2 id=&#34;225卵性-みつばナンバーワン&#34;&gt;225卵性「みつばナンバーワン！！」&lt;/h2&gt;
 
 &lt;p&gt;杉ちゃんが超本格的な一眼レフカメラを盗撮用に買ったところに雌どもが群がるお話。&lt;/p&gt;
 
 &lt;p&gt;吉岡さんがこれほどかわいく写るとは、伊達に1000枚以上盗撮してないね杉ちゃん。撮り方を熟知している。そして、撮った写真を集めて男子が写真写りランキング…また物議を醸し出しそうなものを…。&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;1位 みっちゃん&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;1位 みっちゃん&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;なん…だと…。しかも食ってるところ撮られての1位ってことは、雌豚だの膝に水がたまっただの言われつつもしっかり美少女してるってことですかー！？　このクラスドMばっかか！&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;2位 伊藤詩織&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;2位 伊藤詩織&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;ふむ。これは納得の2位。しかも自分のかわいい撮られ方を熟知しておられるところが腹黒というか。しかしそこを武器にしての貫禄2位おめでとう。ってまたS嬢のランクイン！？&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;3位 松岡さん&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;3位 松岡さん&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;そこに気づくとは…やはり天才か…。しかし、この数珠なし不意打ち松岡さんを捕らえきった杉ちゃんもGJと言わざるを得ない。&lt;/p&gt;
@@ -787,13 +792,15 @@
 &lt;p&gt;いつものゆんゆん状態だと、間違いなく圏外だろうね。&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;4位 宮下&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;4位 宮下&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;杉ちゃん、ギャップというものをわかっておられる。普段超ウザい宮下さんの一面をこう切り取るとは…杉ちゃんわかっておられる。(2回目)&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;5位 おでこ&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;5位 おでこ&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;この子も自分の一番いい写り方を知ってるタイプか…っておでこ！？　まさかすぎてビビってしまったが…。&lt;/p&gt;
@@ -801,7 +808,8 @@
 &lt;p&gt;憶測なんだけど、おでこのしゃべり方といい、服のセンスといい、なんか兄貴がいそうな感じがするのは自分だけ？　そうか…。しかし、ここからチームおでこレギュラー入りが有り得るのか？&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;6位 ふたば&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;6位 ふたば&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;ふたばもギャップかこれ。こんな表情のふたば見たことないぞ。とはいえ、ふたばなら元気いっぱいでも宮下さんのごとくウザくないので上位ねらえそうですね。&lt;/p&gt;
@@ -819,13 +827,15 @@
 &lt;p&gt;おがちんの魅力は6年男子にはまだわからんか…。っていうか写真写りが最悪。めっちゃ怒ってるよ。&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;モブ&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;モブ&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;チームおでこの一人かな？&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;吉岡さん&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;吉岡さん&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;吉岡さんの眉毛はちょっとマニアックすぎたかしら。写真ではあんなにも美少女なのに！&lt;/p&gt;
@@ -839,13 +849,15 @@
 &lt;p&gt;まあ、良くも悪くも地味なのかな。しかしこれほどまでとは…。&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;モブ&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;モブ&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;唯一のめがねっ娘！&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;モブ&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;モブ&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;これ、志久さんかな…チームおでこの。&lt;/p&gt;
@@ -858,7 +870,7 @@
 
 &lt;p&gt;問題は今回あぶれた杉ちゃんと三女さんを含めた決定版か。ドキドキするな！&lt;/p&gt;
 
-&lt;h2 id=&#34;226卵性-桜の木になる:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;226卵性「桜の木になる」&lt;/h2&gt;
+&lt;h2 id=&#34;226卵性-桜の木になる&#34;&gt;226卵性「桜の木になる」&lt;/h2&gt;
 
 &lt;p&gt;杉崎家とみつご、チーム杉崎でお花見。&lt;/p&gt;
 
@@ -866,7 +878,7 @@
 
 &lt;p&gt;杉ちゃんママとみっちゃん、龍ちゃんと三女さんがくっつくと必然的に杉ちゃんとふたばが余るわけで…。杉ちゃんちょっと頬赤らめてる場合じゃないよ！&lt;/p&gt;
 
-&lt;h2 id=&#34;227卵性-魔法少女なんとかカントカ:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;227卵性「魔法少女なんとかカントカ」&lt;/h2&gt;
+&lt;h2 id=&#34;227卵性-魔法少女なんとかカントカ&#34;&gt;227卵性「魔法少女なんとかカントカ」&lt;/h2&gt;
 
 &lt;p&gt;三女さん魔法少女に目覚める。&lt;/p&gt;
 
@@ -874,13 +886,13 @@
 
 &lt;p&gt;三女さん、松岡さんに負けっぱなし。普通の女の子になーーぁれ！　はひどい。まさに三女さん殺し。&lt;/p&gt;
 
-&lt;h2 id=&#34;228卵性-先生への楽しい謝り方:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;228卵性「先生への楽しい謝り方」&lt;/h2&gt;
+&lt;h2 id=&#34;228卵性-先生への楽しい謝り方&#34;&gt;228卵性「先生への楽しい謝り方」&lt;/h2&gt;
 
 &lt;p&gt;記念すべき復帰回。次の229卵性と併せて全員を満遍なく紹介する回かな。&lt;/p&gt;
 
 &lt;p&gt;こちらの話ではみっちゃん、ふたば、SSS隊、しんちゃん千葉氏あたりの復習がメインか。&lt;/p&gt;
 
-&lt;h2 id=&#34;229卵性-寄せ書き教室:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;229卵性「寄せ書き教室」&lt;/h2&gt;
+&lt;h2 id=&#34;229卵性-寄せ書き教室&#34;&gt;229卵性「寄せ書き教室」&lt;/h2&gt;
 
 &lt;p&gt;こっちは三女さん、松岡さん、他クラスメートの復習。&lt;/p&gt;
 
@@ -896,7 +908,7 @@
 
 &lt;p&gt;…しゃべり方宮下さん系？　あとテリーマン以来の星柄パンツだけど、これ絶対兄貴いるよね。&lt;/p&gt;
 
-&lt;h2 id=&#34;230卵性-ハイスコアボーイ:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;230卵性「ハイスコアボーイ」&lt;/h2&gt;
+&lt;h2 id=&#34;230卵性-ハイスコアボーイ&#34;&gt;230卵性「ハイスコアボーイ」&lt;/h2&gt;
 
 &lt;p&gt;表紙からいきなりクライマックス状態のおがちん。&lt;/p&gt;
 
@@ -912,11 +924,11 @@
 
 &lt;p&gt;あとおがちんとふたばの関係も徐々にいい感じに？　…と思ったけど、この子たち序盤で誰よりも早くいっしょにお風呂イベントキメてたな。&lt;/p&gt;
 
-&lt;h2 id=&#34;231卵性-アイマイ見舞い:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;231卵性「アイマイ見舞い」&lt;/h2&gt;
+&lt;h2 id=&#34;231卵性-アイマイ見舞い&#34;&gt;231卵性「アイマイ見舞い」&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://mysyutar.heroku.com/21&#34; title=&#34;みつどもえ 231卵性 が大変興味深い件&#34;&gt;みつどもえ 231卵性 が大変興味深い件 - skhr-blog&lt;/a&gt; 参照&lt;/p&gt;
 
-&lt;h2 id=&#34;232卵性-うちの子ルンパ:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;232卵性「うちの子ルンパ」&lt;/h2&gt;
+&lt;h2 id=&#34;232卵性-うちの子ルンパ&#34;&gt;232卵性「うちの子ルンパ」&lt;/h2&gt;
 
 &lt;p&gt;週間少年チャンピオンラスト掲載をかざったのは家族が増えたよ！　やったねみっちゃん！&lt;/p&gt;
 
@@ -924,7 +936,7 @@
 
 &lt;p&gt;ルンパに再登場の機会は訪れるのか。&lt;/p&gt;
 
-&lt;h2 id=&#34;三十路大昔物語:507a1001abebc6cbe467b8a18fc4b3e6&#34;&gt;三十路大昔物語&lt;/h2&gt;
+&lt;h2 id=&#34;三十路大昔物語&#34;&gt;三十路大昔物語&lt;/h2&gt;
 
 &lt;p&gt;海江田先生の悲しいお話…。&lt;/p&gt;
 </description>
@@ -938,7 +950,7 @@
       <guid>http://mysyutar.github.io/2012/08/17/mitsudomoe/</guid>
       <description>
 
-&lt;h2 id=&#34;松岡さん髪ほどいたら女子力高すぎるだろ:f8a70fc3c7ee2dcb5dffcc3bb0b748e1&#34;&gt;松岡さん髪ほどいたら女子力高すぎるだろ！&lt;/h2&gt;
+&lt;h2 id=&#34;松岡さん髪ほどいたら女子力高すぎるだろ&#34;&gt;松岡さん髪ほどいたら女子力高すぎるだろ！&lt;/h2&gt;
 
 &lt;p&gt;&lt;script src=&#34;http://source.pixiv.net/source/embed.js&#34; data-id=&#34;29427602_5cefcbffdff8ab1d8f2155f2566d5b90&#34; data-size=&#34;medium&#34; data-border=&#34;on&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;br /&gt;
 &lt;noscript&gt;&lt;p&gt;&lt;a href=&#34;http://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=29427602&#34; target=&#34;_blank&#34;&gt;まさか松岡さん、吉岡さん、三女さんでみつどもえ状態になるとは…&lt;/a&gt; by &lt;a href=&#34;http://www.pixiv.net/member.php?id=1432163&#34; target=&#34;_blank&#34;&gt;まいしゅたー&lt;/a&gt; on &lt;a href=&#34;http://www.pixiv.net/&#34; target=&#34;_blank&#34;&gt;pixiv&lt;/a&gt;&lt;/p&gt;&lt;/noscript&gt;&lt;/p&gt;
@@ -961,7 +973,7 @@
 
 &lt;p&gt;色々な要素が詰め込まれてて非常に興味深いので、挙げてみましょう。&lt;/p&gt;
 
-&lt;h3 id=&#34;お見舞いの不吉な品:f8a70fc3c7ee2dcb5dffcc3bb0b748e1&#34;&gt;お見舞いの不吉な品&lt;/h3&gt;
+&lt;h3 id=&#34;お見舞いの不吉な品&#34;&gt;お見舞いの不吉な品&lt;/h3&gt;
 
 &lt;p&gt;三女さんは「本人の希望だもの…」とか言ってる割に、受け取った松岡さんは大はしゃぎ。&lt;/p&gt;
 
@@ -969,7 +981,7 @@
 
 &lt;p&gt;なんやかんや言いつつも、お見舞いの品を作って持ってくるのは確定だったわけね。いい娘だ。&lt;/p&gt;
 
-&lt;h3 id=&#34;今日もいない:f8a70fc3c7ee2dcb5dffcc3bb0b748e1&#34;&gt;今日もいない&lt;/h3&gt;
+&lt;h3 id=&#34;今日もいない&#34;&gt;今日もいない&lt;/h3&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;「ああ、今日もいないよ…」&lt;/p&gt;
@@ -981,14 +993,15 @@
 
 &lt;ul&gt;
 &lt;li&gt;三女さんは全身経文以降も松岡さんのお見舞いに通っていた&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;杉ちゃんたちはこの日初めてお見舞いに来ることになったので連れてきた&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;杉ちゃんたちはこの日初めてお見舞いに来ることになったので連れてきた&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;という事？　&lt;strike&gt;もう妻だろう。&lt;/strike&gt;&lt;/p&gt;
 
 &lt;p&gt;そこまでしておいての三女さんの照れ隠しだもんなー。クラス公認でイチャコラするといいよ。&lt;/p&gt;
 
-&lt;h3 id=&#34;吉岡さんのジェラシー:f8a70fc3c7ee2dcb5dffcc3bb0b748e1&#34;&gt;吉岡さんのジェラシー&lt;/h3&gt;
+&lt;h3 id=&#34;吉岡さんのジェラシー&#34;&gt;吉岡さんのジェラシー&lt;/h3&gt;
 
 &lt;p&gt;…そんな中、なぜか三女さんへのジェラシー爆発な吉岡さん。&lt;/p&gt;
 
@@ -996,7 +1009,7 @@
 
 &lt;p&gt;とはいえ、ここから松岡さん-吉岡さんラインができるかもしれないのでちょい期待。&lt;/p&gt;
 
-&lt;h3 id=&#34;さっちゃ:f8a70fc3c7ee2dcb5dffcc3bb0b748e1&#34;&gt;さっちゃ…&lt;/h3&gt;
+&lt;h3 id=&#34;さっちゃ&#34;&gt;さっちゃ…&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;さっちゃん！&lt;/strong&gt;　杉ちゃん以来の快挙！&lt;/p&gt;
 

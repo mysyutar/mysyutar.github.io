@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ゲーム on yu-my-star</title>
-    <link>http://mysyutar.github.io/tags/%E3%82%B2%E3%83%BC%E3%83%A0/</link>
-    <description>Recent content in ゲーム on yu-my-star</description>
+    <title>yu-my-star</title>
+    <link>http://mysyutar.github.io/tags/%E3%82%B2%E3%83%BC%E3%83%A0/index.xml</link>
+    <description>Recent content on yu-my-star</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 24 Oct 2012 00:00:00 +0900</lastBuildDate>
     <atom:link href="http://mysyutar.github.io/tags/%E3%82%B2%E3%83%BC%E3%83%A0/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -17,7 +16,7 @@
       <guid>http://mysyutar.github.io/2012/10/24/game/</guid>
       <description>
 
-&lt;h2 id=&#34;前回までのあらすじ:4898a7ea16373ab181e825ee41c5992e&#34;&gt;前回までのあらすじ&lt;/h2&gt;
+&lt;h2 id=&#34;前回までのあらすじ&#34;&gt;前回までのあらすじ&lt;/h2&gt;
 
 &lt;p&gt;Ver 1.2 か 1.3 の時に武器に「攻撃力大」を付加しようとして、約100回試行したら &lt;strong&gt;1回&lt;/strong&gt; しか付加されなかった。&lt;/p&gt;
 
@@ -28,7 +27,7 @@
 
 &lt;p&gt;時はきた！それだけだ。(蝶野笑う)&lt;/p&gt;
 
-&lt;h2 id=&#34;前提条件:4898a7ea16373ab181e825ee41c5992e&#34;&gt;前提条件&lt;/h2&gt;
+&lt;h2 id=&#34;前提条件&#34;&gt;前提条件&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;とりあえず100回&lt;br /&gt;
@@ -41,17 +40,19 @@
 &lt;ul&gt;
 &lt;li&gt;やはりちからこぶで大は出ないんだろうか(バージョンアップしてから試してない)&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ターゲットはLv1バトルピッケル&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;ターゲットはLv1バトルピッケル&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;手順-前回と同じ:4898a7ea16373ab181e825ee41c5992e&#34;&gt;手順(前回と同じ)&lt;/h2&gt;
+&lt;h2 id=&#34;手順-前回と同じ&#34;&gt;手順(前回と同じ)&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;強く！と弱く！を繰り返す&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;ただし、攻撃力大が出た場合は弱く！せずに次のレベルに進む&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;ただし、攻撃力大が出た場合は弱く！せずに次のレベルに進む&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;過程:4898a7ea16373ab181e825ee41c5992e&#34;&gt;過程&lt;/h2&gt;
+&lt;h2 id=&#34;過程&#34;&gt;過程&lt;/h2&gt;
 
 &lt;p&gt;スタート。&lt;/p&gt;
 
@@ -70,10 +71,11 @@
 
 &lt;p&gt;&lt;img src=&#34;http://mysyutar.github.io/images/2012/10/23/5.png&#34; alt=&#34;バトリクス&#34; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;結果:4898a7ea16373ab181e825ee41c5992e&#34;&gt;結果&lt;/h2&gt;
+&lt;h2 id=&#34;結果&#34;&gt;結果&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;約100回試行して &lt;strong&gt;5&lt;/strong&gt; 回の攻撃力大が得られた。&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;約100回試行して &lt;strong&gt;5&lt;/strong&gt; 回の攻撃力大が得られた。&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://mysyutar.github.io/images/2012/10/23/1.jpg&#34; alt=&#34;バトリクス&#34; /&gt;&lt;br /&gt;
@@ -84,7 +86,7 @@
 &lt;p&gt;&lt;img src=&#34;http://mysyutar.github.io/images/2012/10/23/4.jpg&#34; alt=&#34;バトリクス&#34; /&gt;&lt;br /&gt;
 &lt;img src=&#34;http://mysyutar.github.io/images/2012/10/23/2.jpg&#34; alt=&#34;バトリクス&#34; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;雑感:4898a7ea16373ab181e825ee41c5992e&#34;&gt;雑感&lt;/h2&gt;
+&lt;h2 id=&#34;雑感&#34;&gt;雑感&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;厳密に前回と比べるには(武器によって出やすい出にくいがあるか等)Lv1旋風の薙刀をチョイスしなきゃいけなかったんだろうなあ&lt;br /&gt;&lt;/li&gt;
@@ -94,7 +96,8 @@
 &lt;ul&gt;
 &lt;li&gt;軽量大はだいえっとがあるからあんまり嬉しくない…&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;闇が0なのはただの偶然だと思う&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;闇が0なのはただの偶然だと思う&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;全体的にいいスキルが付加されやすくなっていると思う。&lt;/p&gt;
@@ -109,17 +112,18 @@
       <guid>http://mysyutar.github.io/2012/07/03/game/</guid>
       <description>
 
-&lt;h2 id=&#34;詳細:e5d8cdac6d58c69fa0f913921b0a0f6d&#34;&gt;詳細&lt;/h2&gt;
+&lt;h2 id=&#34;詳細&#34;&gt;詳細&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.google.co.jp/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=4&amp;ved=0CFsQFjAD&amp;url=http%3A%2F%2Fitunes.apple.com%2Fjp%2Fapp%2Ffu-you-da-lubatorikusu%2Fid521959688%3Fmt%3D8&amp;ei=9NzyT-6zC8eKmQXjwsGgCQ&amp;usg=AFQjCNGhu5K9_TwtTjZHVaVJWm4__xbBHw&#34; class=&#34;l&#34;&gt;App Store - 浮遊大陸&lt;em&gt;バトリクス&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.google.co.jp/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=4&amp;ved=0CFsQFjAD&amp;url=http%3A%2F%2Fitunes.apple.com%2Fjp%2Fapp%2Ffu-you-da-lubatorikusu%2Fid521959688%3Fmt%3D8&amp;ei=9NzyT-6zC8eKmQXjwsGgCQ&amp;usg=AFQjCNGhu5K9_TwtTjZHVaVJWm4__xbBHw&#34; class=&#34;l&#34;&gt;App Store - 浮遊大陸&lt;em&gt;バトリクス&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;あらすじ:e5d8cdac6d58c69fa0f913921b0a0f6d&#34;&gt;あらすじ&lt;/h2&gt;
+&lt;h2 id=&#34;あらすじ&#34;&gt;あらすじ&lt;/h2&gt;
 
 &lt;p&gt;Twitterでオール攻撃大モーニングスターのスクリーンショットを発見したのでできんのかと思案&lt;/p&gt;
 
-&lt;h2 id=&#34;前提条件:e5d8cdac6d58c69fa0f913921b0a0f6d&#34;&gt;前提条件&lt;/h2&gt;
+&lt;h2 id=&#34;前提条件&#34;&gt;前提条件&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;とりあえず100回&lt;br /&gt;
@@ -134,17 +138,19 @@
 &lt;ul&gt;
 &lt;li&gt;ちからこぶは攻撃力小専門っぽい？？一回も大が出たことない&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ターゲットはLv1旋風の薙刀&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;ターゲットはLv1旋風の薙刀&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;手順:e5d8cdac6d58c69fa0f913921b0a0f6d&#34;&gt;手順&lt;/h2&gt;
+&lt;h2 id=&#34;手順&#34;&gt;手順&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;強く！と弱く！を繰り返す&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;ただし、攻撃力大が出た場合は弱く！せずに次のレベルに進む&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;ただし、攻撃力大が出た場合は弱く！せずに次のレベルに進む&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;過程:e5d8cdac6d58c69fa0f913921b0a0f6d&#34;&gt;過程&lt;/h2&gt;
+&lt;h2 id=&#34;過程&#34;&gt;過程&lt;/h2&gt;
 
 &lt;p&gt;途中からスクリーンショット撮り始めたので37000ゴールド…。&lt;/p&gt;
 
@@ -163,14 +169,14 @@
 
 &lt;p&gt;&lt;img src=&#34;http://mysyutar.github.com/images/2012/07/03/5.png&#34;&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;結果:e5d8cdac6d58c69fa0f913921b0a0f6d&#34;&gt;結果&lt;/h2&gt;
+&lt;h2 id=&#34;結果&#34;&gt;結果&lt;/h2&gt;
 
 &lt;p&gt;約100回施行して1回の攻撃力大が出た&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://mysyutar.github.com/images/2012/07/03/table.jpg&#34;&gt;&lt;br /&gt;
 &lt;img src=&#34;http://mysyutar.github.com/images/2012/07/03/graph.png&#34;&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;雑感:e5d8cdac6d58c69fa0f913921b0a0f6d&#34;&gt;雑感&lt;/h2&gt;
+&lt;h2 id=&#34;雑感&#34;&gt;雑感&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;意外と属性付加が多い&lt;br /&gt;
@@ -194,7 +200,8 @@
 &lt;li&gt;もしかして武器によって出やすいスキルがあるか？&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;モーニングスターなら攻撃系が超出やすく軽量が出にくいとか？&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;モーニングスターなら攻撃系が超出やすく軽量が出にくいとか？&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
