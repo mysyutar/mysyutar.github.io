@@ -3,12 +3,17 @@
 	<ul>
 	{{ if $.Site.Params.twitter_id }}
 	<li>
-		<a class="twitter" href='http://twitter.com/{{ $.Site.Params.twitter_id }}' title="Twitter">Twitter</a>
+		<a class="twitter" href='https://twitter.com/{{ $.Site.Params.twitter_id }}' title="Twitter">Twitter</a>
 	</li>
 	{{ end }}
 	{{ if $.Site.Params.pixiv_id }}
 	<li>
-		<a class="pixiv" href='http://www.pixiv.net/member.php?id={{ $.Site.Params.pixiv_id }}' title="pixiv">pixiv</a>
+		<a class="pixiv" href='https://pixiv.me/{{ $.Site.Params.pixiv_id }}' title="pixiv">pixiv</a>
+	</li>
+	{{ end }}
+	{{ if $.Site.Params.nico_id }}
+	<li>
+		<a class="nico" href='http://seiga.nicovideo.jp/user/illust/{{ $.Site.Params.nico_id }}' title="nico">ニコニコ静画</a>
 	</li>
 	{{ end }}
 	{{ if $.Site.Params.github_id }}
@@ -17,4 +22,10 @@
 	</li>
 	{{ end }}
 	</ul>
+
+	<!--
+	<h4>Recent Illusts</h4>
+	<iframe style="background:transparent;" width="170" height="200" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="http://embed.pixiv.net/blogparts.php?md=m&id=mysyutar_c130ca5b066c96b7b26819f9207ab711&logoColor=0x258FB8&bgColor=0xFFFFFF&btnColor=0xFFFFFF&allowColor=0x258FB8&nanameColor=0xEDEDED&wakuColor=0x999999&tabColor=0xFF9900&fontColor=0x000000"></iframe>
+	<iframe width="170" height="200" src="http://ext.seiga.nicovideo.jp/blogparts?mode=user&key=17860340&code=17860340_88f2432f55dd7df1fb3e9a8dfdcf7d27e7435a18" scrolling="no" frameborder="0"></iframe>
+	-->
 </div>
