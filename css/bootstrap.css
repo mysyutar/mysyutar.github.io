@@ -2460,14 +2460,17 @@ h6 .small, .h6 small,
   font-size: 75%;
 }
 
+h1:before, .h1:before {
+  content: "〓 ";
+}
+
 h1, .h1 {
   font-size: 20px;
-  //border-bottom: 5px solid #b4bcc2;
 }
 
 h2, .h2 {
   font-size: 16px;
-  border-bottom: 1px dotted #b4bcc2;
+  border-bottom: 2px dotted #b4bcc2;
 }
 
 h3, .h3 {
