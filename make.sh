@@ -1,7 +1,7 @@
 #!/bin/sh
 set -ex
 
-if [ $1 = "post" ]; then
+if [ "$1" = "post" ]; then
   DATE=`date +%Y-%m-%dT%T+09:00`
   YEAR=`date +"%Y"`
   MONTH=`date +"%m"`
@@ -23,12 +23,12 @@ if [ $1 = "post" ]; then
   echo "---"                      >> ${FILE}
   echo ""                         >> ${FILE}
   echo "## headline"              >> ${FILE}
-elif [ $1 = "build" ]; then
+elif [ "$1" = "build" ]; then
   hugo
-elif [ $1 = "serve" ]; then
+elif [ "$1" = "serve" ]; then
   HOSTNAME=`hostname`
   hugo server --bind=0.0.0.0 --baseUrl=http://${HOSTNAME} -w --port=4000
-elif [ $1 = "deploy" ]; then
+elif [ "$1" = "deploy" ]; then
   DATE=`date +"%Y/%m/%d %T"`
 
   git push origin source:source
