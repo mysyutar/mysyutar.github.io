@@ -6,3 +6,36 @@ body {
   background-position: right bottom;
   background-attachment: fixed;
 }
+
+.booth {
+  overflow: hidden;
+  width: 180px;
+  height: 300px;
+  background-color: #CCCCCC;
+}
+
+.booth .item {
+  display: inline-block;
+  width: 150px;
+  vertical-align: top;
+  background-color: #fff;
+}
+
+.booth .title:before {
+  content: "";
+}
+
+.booth .title {
+  font-size: 12px;
+}
+
+.booth p {
+  font-size: 10px;
+}
+
+.booth img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
