@@ -1,25 +1,30 @@
 <div class="sidebar-module">
 	<h4>Socials</h4>
 	<ul>
-	{{ if $.Site.Params.twitter_id }}
-	<li>
-		<a class="twitter" href='https://twitter.com/{{ $.Site.Params.twitter_id }}' title="Twitter">Twitter</a>
-	</li>
+	<!--
+	{{ if $.Site.Params.github_id }}
+		<li>
+			<a class="github" href='https://github.com/{{ $.Site.Params.github_id }}' title="GitHub">GitHub</a>
+		</li>
 	{{ end }}
+	-->
 	{{ if $.Site.Params.pixiv_id }}
-	<li>
-		<a class="pixiv" href='https://pixiv.me/{{ $.Site.Params.pixiv_id }}' title="pixiv">pixiv</a>
-	</li>
+		<li>
+			<a class="pixiv" href='https://pixiv.me/{{ $.Site.Params.pixiv_id }}' title="pixiv">pixiv</a>
+		</li>
 	{{ end }}
 	{{ if $.Site.Params.nico_id }}
-	<li>
-		<a class="nico" href='http://seiga.nicovideo.jp/user/illust/{{ $.Site.Params.nico_id }}' title="nico">ニコニコ静画</a>
-	</li>
+		<li>
+			<a class="nico" href='http://seiga.nicovideo.jp/user/illust/{{ $.Site.Params.nico_id }}' title="nico">ニコニコ静画</a>
+		</li>
 	{{ end }}
-	{{ if $.Site.Params.github_id }}
-	<li>
-		<a class="github" href='https://github.com/{{ $.Site.Params.github_id }}' title="GitHub">GitHub</a>
-	</li>
+	{{ if $.Site.Params.nijie_id }}
+		<li>
+			<a class="nijie" href='https://nijie.info/members.php?id={{ $.Site.Params.nijie_id }}' title="nijie">ニジエ</a> /
+	{{ end }}
+	{{ if $.Site.Params.horne_id }}
+			<a class="horne" href='https://horne.red/members.php?id={{ $.Site.Params.horne_id }}' title="horne">ホルネ</a>
+		</li>
 	{{ end }}
 	</ul>
 
