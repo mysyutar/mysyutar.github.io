@@ -9,7 +9,7 @@ body {
 
 .booth {
   overflow: hidden;
-  width: 180px;
+  width: 250px;
   height: 300px;
   background-color: #CCCCCC;
 }
@@ -18,7 +18,7 @@ body {
   display: inline-block;
   width: 150px;
   vertical-align: top;
-  background-color: #fff;
+  background-color: #FFFFFF;
 }
 
 .booth .title:before {
