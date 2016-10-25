@@ -5,17 +5,16 @@
 
 	{{ partial "blogparts.html" . }}
 
-	{{ partial "link.html" . }}
-
 	<div class="sidebar-module">
 		<h4>Recent Entries</h4>
-		<ul>
+		<div class="list-group">
 		{{ range first .Site.Params.recentLimit .Site.Pages }}
-			<li><a href="{{.RelPermalink}}">
+			<a href="{{.RelPermalink}}" class="list-group-item">
 				{{ .Title }}
-			</a></li>
+				<span class="badge">{{ .Date.Format "2006/01/02" }}</span>
+			</a>
 		{{ end }}
-		</ul>
+		</div>
 	</div>
 
 	<div class="sidebar-module">

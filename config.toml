@@ -14,7 +14,7 @@ paginate = 5
   post = "/:year/:month/:day/:slug/"
 
 [params]
-  mainMenu = ["about", "work", "post"]
+  mainMenu = ["about", "work", "link", "post"]
   author = "mysyutar"
   twitter_id = "mysyutar"
   pixiv_id = "mysyutar"
